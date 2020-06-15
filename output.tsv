@@ -1,0 +1,2675 @@
+id	gene	category	value
+HY-100006A	ULK1	IC50	2.9nM
+HY-100006A	ULK2	IC50	1.1nM
+HY-100015	domain Ki	Ki	1.5nM
+HY-100016	ATM	IC50	0.58nM
+HY-100023	CDC7	IC50	3.3nM
+HY-100023	pMCM2	IC50	290nM
+HY-10005	CDKs	IC50s	30nM
+HY-10005	CDK4	IC50s	170nM
+HY-10006	CDK	IC50s	30nM
+HY-10006	CDKs	IC50s	170nM
+HY-10006	CDK4	IC50s	100nM
+HY-10008	CDK9	IC50s	38nM
+HY-10009	γ - secretase	IC50	10.9nM
+HY-10009	β - amyloid	IC50	12nM
+HY-10009	Notch	IC50	12.1nM
+HY-100114	p38 MAPK	IC50s	6.4nM
+HY-100114	p38	IC50s	6.8nM
+HY-10012	438 CDK6	IC50	16nM,6
+HY-10013	cannabinoid 1	Ki	0.13nM
+HY-10014	. R547 retinoblastoma protein	Ki	2nM,3
+HY-10015	1 ]	IC50	2nM
+HY-100155	σ1 receptor	Ki	1.7nM
+HY-100155	Ki	Ki	25.2nM
+HY-100155	σ2 receptor	IC50	1.7nM
+HY-100209	luteinizing hormone - releasing hormone	IC50	0.1nM
+HY-100221	glucokinase activator	EC50	60nM
+HY-100233	NF - κB / activating protein	IC50	2.3±0.41uM
+HY-100233	AP-1	Kd	threenM
+HY-100233	2.3±0.41 μM.	Kds	100nM
+HY-100233	JNKs	Kds	240nM
+HY-100233	JNK1	Kds	360nM
+HY-100235	protein methyltransferase 5	IC50	22nM
+HY-100337	0 alpha / beta hydrolase domain	IC50	70nM
+HY-100366	brain - penetrant mGlu4 receptor	IC50	500nM
+HY-10037	5-Lipoxygenase - activating protein	IC50	1.6nM
+HY-100370	GABAA α5 receptor	EC50	3nM
+HY-100370	GABAA	Kis	0.83nM
+HY-100407	mGlu1 receptor	IC50	19nM
+HY-100416A	CSF	IC50	15.8nM
+HY-100416A	NMDA	IC	50nM
+HY-100416A	GlyT1 transporters	IC	15.8nM
+HY-10042	cathepsin K	IC50	0.2nM
+HY-10044	mTOR kinase	IC50	0.19±0.07nM
+HY-10045	EGFR	IC50	2nM
+HY-10045	ErbB2	IC50	6nM
+HY-100452	OX2 receptor	IC50	40nM
+HY-100452	G - protein coupled receptors	IC	50nM
+HY-100452	orexin ERK1/2	IC	40nM
+HY-100452	OX2 receptor	IC	30inhibition
+HY-10046	CXCR4	IC50	44nM
+HY-100463	SHP-1	IC50	40nM
+HY-100483	P2X7 receptor	IC50	10nM
+HY-100483	human P2X7 receptors	IC50	9nM
+HY-100514	peptidylarginine deiminase 4	IC50s	50nM
+HY-100519	PAK1 - 1 allosteric	IC50	5nM
+HY-100563	αVβ3 integrin	IC50	20nM
+HY-100576	eukaryotic elongation factor 2 kinase	IC50	60eEF-2K
+HY-100583	estrogen receptor	Ki	0.73nM
+HY-100614	STAT6	IC50	21nM
+HY-10067	ROCK	IC50	3.6nM
+HY-100686	GABAA receptor	IC50	100nM
+HY-100686	recombinant GABAA receptors	IC	50receptor
+HY-10069	ROCK	IC50	3.6nM
+HY-10071	ROCK - I	Ki	220nM
+HY-10071	ROCK - II	Ki	300nM
+HY-100736	lysophospholipase 1 14-fold serine hydrolases	IC50	210nM
+HY-100737	acyl protein thioesterase 2	Ki	120nM
+HY-100737	Ki	IC50	144nM
+HY-10087	Bcl-2 family protein	Ki	1nM
+HY-10088	ETA - receptor	IC50	21nM
+HY-10088	endothelin A receptor	IC50	21nM
+HY-100895	JAK1	IC50s	0.6nM
+HY-100895	JAK2	IC50s	23nM
+HY-100895	JAK3	IC50s	26nM
+HY-100946	c - Met	IC50	7nM
+HY-101023	hypoxia - inducible factor prolyl hydroxylase 1 - 3	IC50	1nM
+HY-101032	receptor - interacting protein 1	IC50	13nM
+HY-101039A	M δ opioid receptor	EC50	7.2±0.9nM
+HY-101053	Inhibitor Src tyrosine kinase	IC50	44nM
+HY-10108	PI3 K	IC50s	0.5uM
+HY-10109	Ki	IC50	8nM
+HY-101094	5-HT2	Kis	0.14nM
+HY-101094	dopamine D2	Kis	0.46nM
+HY-101094	5-HT1A	Kis	0.75nM
+HY-101094	5-HT2	Kis	1.6nM
+HY-101094	a1-adrenergic receptor	Kis	5.4nM
+HY-10111	PI3Kγ	IC50s	83nM
+HY-10111	235	IC50s	235nM
+HY-101120	CREB	IC50	81nM
+HY-101126	Pim kinase	Ki	5nM
+HY-101126	Ki	Ki	42nM
+HY-10115	PI3 K	IC50s	8nM
+HY-10115	mTOR	IC50s	88nM
+HY-10115A	PI3 K	IC50s	8nM
+HY-10115A	mTOR	IC50s	88nM
+HY-101177	δ opioid receptor Ki	Ki	0.02nM
+HY-101192	epstein	IC50	53.6nM
+HY-101214	urokinase - type plasminogen activator	Ki	10nM
+HY-10122	α1-adrenoceptor with high uroselectivity ;	Ki	0.036nM
+HY-10122	-	Ki	0.15nM
+HY-10122	of	Ki	16nM
+HY-10122	the alpha 1b-	Ki	1b-ARsrespectively
+HY-10126	Aurora B	IC50	0.37nM
+HY-10127	Aurora B	IC50	0.37nM
+HY-101270	STK16 kinase	IC50	295nM
+HY-101271	estrogen receptor β	IC50	2.3nM
+HY-101272	Ki	Ki	0.2nM
+HY-10128	aurora kinase	IC50s	110nM
+HY-10128	aurora A	IC50s	130nM
+HY-101285	CYP1A1	IC50s	9nM
+HY-101294	epoxide hydrolase	IC50	37nM
+HY-101296	FGFR1 tyrosine kinase	IC50	52.4nM
+HY-101312	PDE3A	IC50s	27nM
+HY-101383	recombinant human Nav1.8	IC50	196nM
+HY-101384A	dopamine D4 receptor	Ki	5.2nM
+HY-101419	allosteric S1P3 receptor	EC50	72nM
+HY-101430	DP	IC50	0.3nM
+HY-101458A	t dihydrochloride CXCR4	IC50	2.1nM
+HY-101502A	C3a receptor	IC50	200nM
+HY-101563	protein arginine methyltransferase 5	IC50	6.2nM
+HY-10162	PARP	IC50s	5nM
+HY-10171	respectively	IC50	43nM
+HY-10171	IC50 (	IC50	41nM
+HY-10171	microM the	IC50	43nM
+HY-101736	vanilloid receptor 1	IC50	24.5nM
+HY-101772	ATX	IC50	131nM
+HY-101772	Ki	Ki	15nM
+HY-10178	aurora kinase	IC50s	27nM
+HY-10178	aurora A	IC50s	135nM
+HY-10178	B	IC50s	120nM
+HY-10179	pyrrolo	IC50	13nM
+HY-10179	pyrazole aurora kinase	IC50	79nM
+HY-10179	Aurora A	IC50	61nM
+HY-10180	aurora A kinase	IC50	4nM
+HY-10181	Bcr - Abl	IC50s	0.6nM
+HY-10181	Src family tyrosine kinase	IC50s	0.8nM
+HY-10181	Abl	IC50s	79nM
+HY-10181	Src	IC50s	37nM
+HY-10181A	AblWT	IC50	0.6nM,0.8
+HY-10181A	Src	IC50	79nM,37
+HY-10182	closest homologs CDC2	IC50	10nM，showing
+HY-10182	ERK2	IC50	6.7nM，showing
+HY-10182A	GSK-3	IC50	10nM,6.7
+HY-10182B	GSK-3	IC50	10nM,6.7
+HY-101843	Kv7.4 channels	EC50s	230nM
+HY-101872	RIP3 kinase	IC50	1.8nM
+HY-101903	fatty acid binding protein 4	Ki	2nM
+HY-10191	IGF-1 receptor	IC50s	35nM
+HY-10191	insulin receptor	IC50s	75nM
+HY-10192	ALK	IC50	2nM
+HY-10192	ALK	IC50	10nM
+HY-101920	lipid kinase VPS34	IC50s	90nM
+HY-101923A	ULK1	EC50	18.94nM
+HY-10193	JAK1	IC50s	1.3nM
+HY-10193	JAK2	IC50s	0.4nM
+HY-10194	survivin	IC50	0.54nM
+HY-101941	BTK	IC50	100nM
+HY-10197	Polo - like kinase	IC50s	3nM
+HY-101980	adenosine 2A receptor	Ki	1.7nM
+HY-10200	insulin - like growth factor 1 receptor	IC50	1.8nM
+HY-10200	IGF-1R)/insulin receptor family kinases	IC50	1.7nM
+HY-10200	IR	Ki	2nM
+HY-10200	Ki	IC50	6nM
+HY-10200	RON	IC50	44nM
+HY-102003	PARP	Ki	1.4nM
+HY-10201	Bay 43 - 9006	IC50s	6nM
+HY-10201	Raf-1	IC50s	20nM
+HY-10201	B - Raf	IC50s	22nM
+HY-10201A	Raf-1	IC50s	6nM
+HY-10201A	B - Raf	IC50s	20nM
+HY-10202	100-fold	IC50	0.22uM
+HY-10202	PKC , PKA	IC50	0.22uM
+HY-10202	Molm-13	IC50	1c-Kit
+HY-102020	brain - penetrant DcpS	IC50	0.069nM
+HY-102023	aryl hydrocarbon receptor	IC50	62nM
+HY-10204	,	IC50	80nM
+HY-10204	Flt-3 and Abl .	IC50	9nM
+HY-10204	: OSI-930 inhibits	IC50	15nM
+HY-10204	cell	IC50	9nM
+HY-10204	cell	IC50	14nM
+HY-10205	VEGFR tyrosine kinase	IC50s	1nM
+HY-10205	c - Kit	IC50s	3nM
+HY-102058	KAT6A	IC50	0.25uM
+HY-10206	multi	IC50s	950nM
+HY-10206	receptor tyrosine kinases c - Kit	IC50s	10nM
+HY-10206	c - Kit	IC50s	34nM
+HY-10206	c - Kit	IC50s	127nM
+HY-10206	V560	IC50s	81nM
+HY-10206	c - Kit	IC50s	40nM
+HY-10207	fibroblast growth factor receptor 3	IC50	5nM
+HY-10208	c - Kit	IC50s	10nM
+HY-10208	FGFR1	IC50s	30nM
+HY-10208	c - Fms	IC50s	47nM
+HY-10209A	ABL	IC50	200nM
+HY-10209A	c - Fms	IC50	540nM,800
+HY-10212	Ki	EC50	1.7nM
+HY-10215	NVP	IC50s	7.8nM
+HY-10223	HDAC	IC50s	4.4nM
+HY-10223	EGFR	IC50s	2.4nM
+HY-10223	HER2	IC50s	15.7nM
+HY-10225	HDAC	IC50	27nM
+HY-10227	20S proteasome	Ki	0.6nM
+HY-10228	of?VEGFR1/2/3?with?IC50s?of 2 nM/3 PDGFR	IC50s	2nM,3
+HY-10229	PDGFR	IC50s	2nM,3
+HY-10234	Src	IC50s	2.7nM
+HY-10234	c - Src	IC50s	11nM
+HY-10237	bioavailable HCV NS3 protease Ki	Ki	14nM
+HY-10249	Akt	IC50s	2nM
+HY-10253	μM	IC50	7uM
+HY-10253	respectively	IC50	57uM
+HY-10253	breast	IC50	7uM
+HY-10253	and induced apoptosis in	IC50	7uM
+HY-10254	MEK	IC50	0.33nM
+HY-10255A	SU 11248	IC50s	80nM
+HY-10259A	AT2 angiotensin II receptor	IC50	34nM
+HY-10261	EGFR family	IC50s	0.5nM
+HY-10261	EGFRL858R	IC50s	0.4nM
+HY-10261	T790 M	IC50s	10nM
+HY-10261	HER2	IC50s	14nM
+HY-10261A	EGFR family	IC50s	0.5nM
+HY-10261A	EGFRL858R	IC50s	0.4nM
+HY-10261A	T790 M	IC50s	10nM
+HY-10261A	HER2	IC50s	14nM
+HY-10268	efficacious factor Xa fXa	IC50	1.5nM
+HY-10295	p38 MAP kinase	IC50s	50nM
+HY-10295	p38	IC50s	100nM
+HY-10299	allosteric	Ki	3.2±0.2nM
+HY-10299	CENP - E kinesin	Ki	1.6±nM
+HY-10299	ATPase	Ki	0.1nM
+HY-103007	GPR39	EC50	0.4nM
+HY-10301	AM1 , AM2	Ki	0.024nM
+HY-10302	bioavailable CGRP receptor Ki	IC50	0.12nM
+HY-103020	benzimidazoles 1 ) kinase	IC50	7nM
+HY-103022	ALK	IC50	5.3nM
+HY-103022	ROS1	IC50	1.01nM
+HY-103022	SRC	IC50	1.26nM
+HY-103022	ALK	IC50	1.08nM
+HY-103050	PDE4A	IC50	6.7nM
+HY-103088	EP4 Ki	IC50	13.5nM
+HY-103107	5-HT1F receptor	Ki	1.6nM
+HY-103186	A(2B	Ki	1.39nM
+HY-10320	796 p38 MAPK	IC50	4nM
+HY-10320	B - Raf	IC50	83nM
+HY-10321	FGFR1	IC50	25nM
+HY-10322	EGFR tyrosine kinase	IC50	3nM
+HY-10322	ErbB2	IC50	3.4uM
+HY-10322	related tyrosine kinases	IC50	10uM
+HY-10325	is able to overcome	IC50	370+pM
+HY-10325	-	IC50	370+pM
+HY-103254	β - arrestin	IC50s	0.70uM
+HY-10326	TGF - β type II receptor	IC50	18nM
+HY-10329	aurora kinase	IC50s	9nM
+HY-10329	Aurora - A	IC50s	3nM
+HY-10329	Aurora - B	IC50s	11nM
+HY-10331	multi	IC50s	13,4.2,46nM
+HY-10331	receptor tyrosine kinase RET	IC50s	22nM
+HY-10331	Raf-1	IC50s	7nM
+HY-10331A	RET	IC50s	13,4.2,46nM
+HY-10331A	Raf-1	IC50s	22nM
+HY-10336	FGFR-1	IC50	25nM
+HY-10337	FGFR-1	IC50	25nM
+HY-10338	tyrosine kinase	IC50s	0.4nM
+HY-10339	multi	IC50s	6.6nM
+HY-10339	targeted kinase FLT3	IC50s	14nM
+HY-10339	ABL	IC50s	4nM
+HY-10339	ABLT315I	IC50s	48nM
+HY-103531	GABAB receptor	IC50	85nM
+HY-10358	Akt	IC50s	5nM
+HY-103610	human intestinal carboxyl esterase	Ki	70nM
+HY-103663	US20160176882 A1	IC50s	59nM
+HY-10367A	irreversible EGFR	IC50s	7.4nM
+HY-10367A	EGFR ErbB2	IC50s	9nM
+HY-103682	Ki	Ki	0.7nM
+HY-103683	allosteric	EC50	7nM
+HY-10372	mTOR	IC50s	10nM
+HY-10372	DNK - PK	IC50s	60nM
+HY-10372	VEGFR2	IC50s	12nM
+HY-10372	Src	IC50s	14nM
+HY-10372	PDGFR	IC50s	2nM
+HY-10395	and	IC50	22nM
+HY-10403	or of 3 nM	IC50	26nM
+HY-10403	primary	IC50	26nM
+HY-10406	p38	IC50	9nM
+HY-10407	receptor tyrosine kinase FGFR1	IC50	20nM
+HY-10409	JAK2	IC50	3nM
+HY-10410	JAK2	IC50	6nM
+HY-10410	Flt3	IC50	25nM
+HY-10410	RET	IC50	17nM
+HY-10422	mTOR kinase	IC50	0.8nM
+HY-10424	CDK	IC50s	45nM
+HY-10424	Tropomyosin receptor kinase cyclin A	IC50s	150nM
+HY-10424	cyclin H	IC50s	160nM
+HY-10424	cyclin D1	IC50s	363nM
+HY-10424	CDK4	IC50s	398nM
+HY-10424	cyclin E	IC50s	53nM
+HY-10431	TGF - β	IC50	94nM
+HY-10432A	TGF - β type I receptor ALK5 kinase	IC50s	12nM
+HY-10432A	type	IC50s	45nM
+HY-10432A	activin I nodal receptor ALK7 ALK7	IC50s	7.5nM
+HY-10439	is	IC50	10000nM
+HY-10440	hedgehog	IC50	3nM
+HY-10440	P - gp	IC50	3.0uM
+HY-10446	reduced folate carrier type 1	IC50	300nM
+HY-10452	chymotrypsin - like proteolytic	IC50	3.4nM
+HY-10452	20S proteasome	Ki	0.93nM
+HY-10453	chymotrypsin - like proteolytic	IC50	3.4nM
+HY-10453	20S proteasome	Ki	0.93nM
+HY-10456	a	IC50	7.1nM
+HY-10456	IC50 value :	IC50	7.1nM
+HY-10458	FAK	IC50	1.5nM
+HY-10458	Pyk2 kinase	IC50	13nM
+HY-10459	FAK	IC50	1.5nM
+HY-10459	Pyk2 kinase	IC50	13nM
+HY-10461	FAK	IC50	4nM
+HY-10468	Target HCV HCV polymerase	IC50	7.0uM
+HY-10472	β - secretase cathepsin D	IC50	239nM-249
+HY-10472	pepsin	EC50	300nM
+HY-10474	PP 242	IC50	8nM
+HY-10474	mTOR	IC50s	30nM
+HY-10492	CDK	IC50s	1nM
+HY-10492	of 1 CDK9	IC50s	1nM
+HY-10497	Met	IC50s	15nM
+HY-10501A	multi	IC50s	50nM
+HY-10510	RSK isoforms	IC50s	31nM,24
+HY-10514	PKA	IC50	6nM
+HY-10521	lipoprotein - associated phospholipase A2	IC50	0.25nM
+HY-10527	small molecule	IC50s	6nM
+HY-10531	HER2	IC50	8nM
+HY-10542	c - Raf	IC50	9nM
+HY-10564	5-HT2 antagonist	Ki	8.39nM
+HY-10564	Recepter at the 5HT2A	Ki	1prominent
+HY-10569	sphingosine-1-phosphate receptor 1	EC	50nM
+HY-10572	wild - type HIV-1 reverse transcriptase	Ki	2.93nM
+HY-10578	p38 MAP kinase	IC50	89nM
+HY-10579	ERK1	IC50s	0.5uM
+HY-10579	RSK3	IC50s	2.5uM
+HY-10580	GSK-3α	IC50s	5nM,320
+HY-10590	wnt	IC50	30nM
+HY-10617	Ki	Ki	1.4nM
+HY-10626	FXR	EC50s	50nM
+HY-10655	human	IC50	3.6±0.2nM
+HY-10655	receptors almost as	IC50	3.6nM
+HY-10655	cold U -	IC50	0.2nM
+HY-10678	PPARα PPAR	IC50	10nM
+HY-10678	GAL4	IC50	260nM
+HY-10684	dopamine D2 receptor	Ki	70nM
+HY-10684	D2R	Ki	80nM
+HY-107145	small molecule tyrosine kinase c - Met	IC50s	6.7nM
+HY-107145A	small molecule tyrosine kinase c - Met	IC50s	6.7nM
+HY-107384	κ opioid receptor	IC50s	5.6nM
+HY-107424	BRPF2 bromodomains	IC50s	67nM
+HY-107723	neuropeptide Y5 receptor	Ki	1.3nM
+HY-107723	Ki	Ki	4000nM
+HY-107723	Y1 receptor	Ki	200nM
+HY-107765	retinoic acid receptor gamma	Ki	1.09nM
+HY-10790	: PDE 4 Cilomilast Ki ≈100	IC50	110nM
+HY-10804	aurora kinase	IC50s	15nM
+HY-10804	aurora A	IC50s	25nM
+HY-10804	B	IC50s	19nM
+HY-10805A	orexin 1 receptor	Ki	1.3nM
+HY-10805A	OX1)/orexin 2 receptor	Ki	0.17nM
+HY-108329	receptor potential A1	IC50s	71nM
+HY-108331	P SIRT3	IC50	16nM
+HY-108463	TRPA1 receptor	IC50s	67nM
+HY-108463	rat TRPA1 receptors	IC50s	289nM
+HY-108474	thymidylate synthase	Ki	11nM
+HY-108474	cofactor Ki	Ki	1dihydrochloride
+HY-10864	- related targets . IC50	IC50	4.6nM
+HY-10864	:	IC50	4.6nM
+HY-10864	1 ] Target	IC50	1hydrophobic
+HY-10865	fatty acid amide hydrolase	IC50	270pM
+HY-10871	cannabinoid receptor CB1	Ki	0.7nM
+HY-10888	adenosine A2A receptor	Ki	2.2nM
+HY-10895A	no effect on	IC50	7.2pKb
+HY-10898	peptide orexin OX1 receptor OX2 receptors	Kd	3.76nM
+HY-10898	OX1 receptor	IC50	3.76nM
+HY-10900	orexin receptor	Ki	0.2nM
+HY-10900	Ki	Ki	3nM
+HY-10900	OX2	IC50	0.2nM
+HY-109044	aryl hydrocarbon receptor	EC50	13nM
+HY-109049	Wnt	EC50	19.5nM
+HY-10929	GLP	IC50	15nM
+HY-10930	and 9	Ki	63pM
+HY-10930	( . 40-fold more	IC50	63pM
+HY-10942	NVP	IC50	58nM
+HY-10942	BEP800 Hsp90	IC50s	4.1uM
+HY-10943	inhibits Bcr -	IC50	133nM
+HY-10943	and 61 nM ,	IC50	61nM
+HY-10943	) Target :	IC50	133nM
+HY-10943	capable	IC50	11nM
+HY-10962	JAK1	IC50	11nM,18
+HY-10969	BCL-2 family proteins	Ki	220nM
+HY-10971	Aurora A kinase	IC50	1.2nM
+HY-10974	with	IC50	5nM
+HY-10974	of	IC50	5nM
+HY-10974	cells [ 1 ]	IC50	5nM
+HY-10974	In vitro	IC50	440nM
+HY-10977	VEGFR 1/2/3	IC50s	0.21nM
+HY-10981	tyrosine kinase FGFR1	IC50s	4nM
+HY-10984	TNF - α	IC50	13nM
+HY-10987A	multi	IC50s	1.86nM
+HY-10987A	targeted kinase Aurora A	IC50s	14nM
+HY-10987A	FGFR1	IC50s	58.2nM
+HY-10987A	Src	IC50s	15.9nM
+HY-10991	, 0.33 L/(kg	IC50	29nM
+HY-10991	to be 12	IC50	10nM
+HY-10992	checkpoint kinase Chk	IC50	5nM
+HY-10993	Wee1	IC50	5.2nM
+HY-10995	adenosine A2A receptor	Ki	11.5nM
+HY-10997	Btk	IC50	0.5nM
+HY-10999	MEK	IC50s	2nM
+HY-10999A	MEK	IC50	2nM
+HY-11001	CDK	IC50s	8nM
+HY-11001	Cdk2	IC50s	60nM
+HY-11001	glycogen synthase kinase	IC50s	62nM
+HY-11004	Raf kinase	IC50s	105nM
+HY-11004	B - Raf	IC50s	34nM
+HY-11004	B - RafV600E	IC50s	29nM
+HY-11006	PK mTOR	IC50	13nM
+HY-11009	PKC	IC50	84nM
+HY-11027	androgen receptor	IC50	6.6nM
+HY-110279	Ki	Ki	220nM
+HY-110279	Ki	Ki	736nM
+HY-110390	triacyglycerol hydrolase	IC50	4nM
+HY-11054	Aβ peptides	IC50	5nM
+HY-11054	Aβ1 - 42	EC50	50increase
+HY-11063	sphingosine 1-phosphate	IC50	0.033nM
+HY-11068	p38 MAPK	IC50	44nM
+HY-11068	ERK	IC50	44nM
+HY-11100	2A	Ki	1.3nMrespectively
+HY-11101	farnesyl diphosphate synthase	IC50	460nM
+HY-11102	secretase Notch	IC50	4nM
+HY-11106	BIBF 1120 esylate	IC50s	34nM,13
+HY-11107	c - Met	IC50	9nM
+HY-11108	in vitro : R406 is	IC50	41nM
+HY-11108	potent	IC50	41nM
+HY-111341	human Myeloperoxidase	IC50	140nM
+HY-111371	phosphodiesterase 2A	IC50	1.6nM
+HY-111388A	CDK8	IC50s	4.4nM
+HY-111388A	CDK8	IC50s	10.4nM
+HY-111388A	SEL120 - 34A	Kd	3nM
+HY-111455	penetrant 5-HT7 receptor Ki	Ki	0.58nM
+HY-111455	5-HT1A receptor	Ki	188nM
+HY-111455	Ki	Ki	142nM
+HY-111457	human neutrophil elastase	IC50	20nM
+HY-111457A	human neutrophil elastase	IC50	20nM
+HY-111530	glutathione S - transferase omega 1	IC50	31nM
+HY-112061	5-HT1A	Ki	466nM
+HY-112061	Ki	Ki	5.425-HT
+HY-112096	non - receptor tyrosine kinase Src	IC50	0.5nM
+HY-112158	ERGi	IC50s	30nM
+HY-112161	Bruton ’s tyrosine kinase	IC50	1nM
+HY-112167	- molecule Chk1	IC50	1.2nM
+HY-112215	BTK	IC50s	0.85nM
+HY-112215	BTK	IC50s	0.39nM
+HY-112305	ATM	IC50	6.2nM
+HY-112305	ATM enzyme	IC50	0.31uM
+HY-112316	BET	IC50	100nM
+HY-112627	AhR	Ki	0.2nM
+HY-112627	Ki	Ki	100000nM
+HY-112629	aryl hydrocarbon receptor	Ki	1.2±0.4nM
+HY-112708A	06700841 P - Tosylate JAK1	IC50s	17nM
+HY-112709	Ki	Ki	267nM
+HY-112820	ryanodine receptor	EC50s	40nM
+HY-112842	Rac	IC50s	103nM
+HY-114025	histamine H4 receptor	IC50	19nM
+HY-114403	glutamate receptor 7	IC50	347nM
+HY-115364	destabilizes tubulin	EC50	8.79nM
+HY-117273	BRAF kinase	IC50s	79nM
+HY-117273	V600E mutant BRAF	IC50s	38nM
+HY-117273	p38	IC50s	68nM
+HY-117273	CSF1R	IC50	6nM
+HY-117273	Anti - tumor activity[1	IC50	35nM
+HY-117288	BCL-2	Ki	1.3nM
+HY-12001	EGFR	IC50s	2nM
+HY-12001	T790 M	IC50s	2nM
+HY-12001	EGFRE746_A750	IC50s	5nM
+HY-12001	T790 M	IC50s	14nM
+HY-12001	EGFR	IC50s	66nM
+HY-12003	aurora kinase	IC50s	9nM
+HY-12003	aurora A	IC50s	31nM
+HY-12003	B	IC50s	6nM
+HY-12005	sphingosine 1-phosphate	IC50	0.033nM
+HY-12008	EGFR kinase	IC50	2nM
+HY-120081A	quinuclidinyl benzilate	IC50	55nM
+HY-120081A	muscarinic receptor	Kd	15nM
+HY-12009	c - Kit	IC50	10nM
+HY-12009	FGFR1	IC50	30nM
+HY-12009	c - Fms	IC50	47nM
+HY-12010	with IC50	IC50	20nM
+HY-12010	20 and	IC50	30nM
+HY-12010	> 100-fold	IC50	20nM
+HY-12010	, c	IC50	20nmol
+HY-12010	HER1 / HER2	IC50	30nmol
+HY-12010	Biochemical studies	IC50	0.24micromol
+HY-12014	Met	IC50	10nM
+HY-12016	ATM	Ki	12.9nM
+HY-12016	Ki	Ki	2.2nM
+HY-12017	but	IC50	4.8nM
+HY-12017	no inhibitory activity	IC50	4.8nM
+HY-12017A	,	IC50	4.8nM
+HY-12017A	, but has	IC50	4.8nM
+HY-12019	no activity	IC50	4nM
+HY-12019	Raf	IC50	4nM
+HY-12020	Ki	Ki	260nM
+HY-12020	Bcl-2	Ki	290nM
+HY-12020	Bcl - xL	Ki	1110nM
+HY-12024	Hsp90	EC50	62±29nM
+HY-12026	2 EGFR	IC50s	2nM
+HY-12026	EGFRL858R	IC50s	8nM
+HY-12026	T790 M	IC50s	3nM
+HY-12026	T790 M	IC50s	2nM
+HY-12031	MEK1	IC50s	70nM
+HY-12031	MEK2	IC50s	60nM
+HY-12032	Ki	Ki	5nM
+HY-12034	mTOR	IC50	5nM
+HY-12035	9.3	IC50	9.3nM
+HY-12035	: c -	IC50	9.3nM
+HY-12035	minutes shows a	IC50	9nM
+HY-12035	time	IC50	46nM
+HY-12036	mTOR	IC50	0.4nM,0.6
+HY-12041	JNK	IC50s	40nM
+HY-12041	JNK1	IC50s	40nM
+HY-12041	JNK2	IC50s	90nM
+HY-12043	transforming growth factor β1 receptor	IC50	14.3nM
+HY-12044	S - malate	IC50s	0.035nM
+HY-12044	receptor tyrosine kinases	IC50s	1.3nM
+HY-12044	c - Met	IC50s	4.6nM
+HY-12046	synthetic PI4 K	IC50	19nM
+HY-12047	multi	IC50s	0.37nM
+HY-12047	targeted kinase Abl	IC50s	1.1nM
+HY-12047	FGFR1	IC50s	1.5nM
+HY-12047	Src	IC50s	2.2nM
+HY-12048	protein kinase C	IC50	660nM
+HY-12049	aurora kinase	IC50s	42nM
+HY-12049	aurora A	IC50s	198nM
+HY-12049	B	IC50s	227nM
+HY-12050	PDGFR	IC50s	10nM
+HY-12054	aurora B kinase	IC50	250nM
+HY-12057	B - RAF kinase	IC50s	31nM
+HY-12057	c - RAF-1	IC50s	48nM
+HY-12058	MEK1	IC50	7nM
+HY-12059	Akt1	IC50s	32nM,17
+HY-12059	PKA	IC50s	85nM,20
+HY-12059A	Akt1	IC50s	32nM,17
+HY-12059A	PKA	IC50s	85nM,20
+HY-12061	ATM kinase	IC50	6.3nM
+HY-12067	Syk	Ki	30nM
+HY-12067	Ki	IC50	41nM
+HY-12069	mitotic kinesin KSP	Ki	0.1nM
+HY-12071A	BMP	IC50s	0.8nM
+HY-12071A	ALK2	IC50s	0.8nM
+HY-12072	inhibitors of Lck with	IC50	7nM
+HY-12076	Met - related	IC50s	3.9nM
+HY-12076	c - Met	IC50s	1.1nM
+HY-12076	related Lck	IC50s	1.8nM
+HY-12076	TrkA	IC50s	4.3nM
+HY-12080	Ki	Ki	1nM
+HY-12085	type-4 cyclic nucleotide phosphodiesterase	IC50	74nM
+HY-12089	treatment with an	IC50	37nM
+HY-12089	effect μM ) significantly	IC50	37nM
+HY-12090	CETP	IC50s	7.9±2.5nM
+HY-12090	C13S CETP mutant	IC50s	11.8±1.9nM
+HY-12111	androgen receptor	Ki	2.11±0.16nM
+HY-12113	CT	IC50	36nM,82
+HY-12113	20S proteasome β5	IC50	36nM,82
+HY-12113	LMP7	IC50	20Sproteasome
+HY-12137	Polo - like kinase 1	IC50	0.87nM
+HY-12163	class I HDAC	IC50s	243nM
+HY-12163	HDAC1	IC50s	453nM
+HY-12176	renin	IC50	1.5nM
+HY-12176	Target renin	IC50	1.5nM
+HY-12176	renin	IC50	1renin
+HY-12177	iren renin	IC50	1.5nM
+HY-12177	Target renin	IC50	1.5nM
+HY-12177	renin	IC50	1renin
+HY-122186	cyclin G - associated kinase	Ki	3.1nM
+HY-12220A	HMTase Inhibitor IX	IC50	2.4nM
+HY-12220A	WDR5	Ki	1nM
+HY-12222	farnesoid X receptor	EC50	99nM
+HY-122312	monocarboxylate transporter 1	IC50	85nM
+HY-12235	PI3 K p110δ	Ki	5nM
+HY-12235	Ki	Ki	1.5nM
+HY-12241	HSET	Ki	43nM
+HY-12241	Ki	IC50	300nM
+HY-12242	has a	Kd	3Hbinding
+HY-12245	vanilloid receptor	IC50	5.7±1.2nM
+HY-12245	VR1	IC	50nM
+HY-12245	TRPV1	IC	5.7±1.2nM
+HY-12248	glutaminase	IC50	50nM
+HY-12270	c - Fos / activator protein	IC50s	10nM
+HY-12273	ALK2	IC50s	27,107.9nM
+HY-12274	ALK1	IC50s	46,32nM
+HY-12274	ALK2	IC50	46nM
+HY-12274	ALK2	IC50	32nM
+HY-12278	bone morphogenetic protein	IC50s	1.8nM
+HY-12278	BMP	IC50s	1.1nM
+HY-12278	type I receptor	IC50s	6.4nM
+HY-12279	PI3Kδ	EC50	22.2nM
+HY-12279C	PI3Kδ	EC50	22.2nM
+HY-12283	2238	IC50	1.5nM
+HY-12283	is	IC50	1.5nM
+HY-12283	: 1.5 nM	IC50	1modulator
+HY-12283	from the dog kidney Na+,K+-ATPase receptor	IC50	1.5X10-6M
+HY-12288	S1P1	EC50s	410±160pM
+HY-12288	S1P5 receptor	EC50s	11±4.3nM
+HY-12288	410±160 pM	EC50s	35S-GTPγS
+HY-12292	Wnt	IC50	53nM
+HY-12294A	high	IC50	270nM
+HY-12299	Lck / Src	IC50	2nM,6
+HY-12300	bioavailable PLK4 Ki	IC50	0.26nM
+HY-12300B	bioavailable PLK4 Ki	IC50	0.26nM
+HY-12301	molecule Orexin 2 receptor	Ki	0.95nM
+HY-12301	Ki	IC50	0.95nM
+HY-12302	CDK1	IC50s	0.4uM
+HY-12302	cyclin B	IC50s	23nM
+HY-12302	CDK2	IC50s	0.68uM
+HY-12302	cyclin A CDK2	IC50s	7.5uM
+HY-12302	cyclin E	IC50s	0.85uM
+HY-12319A	cardiomyocytes nM )	IC50	100nM
+HY-12319A	nM (	EC50	0.1uM
+HY-12319A	in vitro :	EC50	90embryonic
+HY-12319A	90 of	EC50	0.25uM
+HY-12320	Naramycin A	IC50s	532.5nM
+HY-12320	eukaryote protein	IC50s	2880nM
+HY-12325	β - ketoacyl reductase	IC50	7.7nM
+HY-12331	Ack1	IC50	12nM,4
+HY-12332	2 monoacylglycerol lipase	IC50	7.6nM
+HY-12332	human MAGL	IC50	14nM
+HY-12332	fatty acid amide hydrolase	IC50	3.7nM
+HY-12334	NUAK1	IC50	100nM
+HY-12334	ARK5	IC50	10uM
+HY-12343	K(v)7.1 activator	K	7.1potassium
+HY-12343	KCNQ channels	EC50	270nM
+HY-12344	nM(MER FLT3	IC50	0.8,0.74nM
+HY-12344	Kinome pro	IC50	0.8,0.74nM
+HY-12344A	FLT3	IC50	0.8,0.74nM
+HY-12347	gerbil brain	IC50	37nM
+HY-12355	S1P S1P1	EC50s	0.39nM
+HY-12355	S1P5 receptors	EC50s	0.98nM
+HY-12380	Ki	Ki	1.6nM
+HY-12380A	Ki	Ki	1.6nM
+HY-12432	FLT3	IC50s	0.29nM,0.73
+HY-12462	were	EC50	28nM
+HY-12462	-	EC50	28nM
+HY-12462	per	EC50	1cell
+HY-12468	Ki	Ki	0.45nM
+HY-12470	casein kinase 1	IC50	32nM
+HY-12493A	p70S6 K	IC50	4nM
+HY-12494	Axl	IC50	5nM,8
+HY-12494	IC50 < 5 inhibits Tyro3,Axl	IC50	5nM,8
+HY-12496	selective	EC50	321619-induced
+HY-12513	I PI3 K isoforms DNA - PK	IC50s	6.07nM
+HY-12513	PK mTOR	IC50s	77.6nM
+HY-12520A	D1DR	IC50	110nM
+HY-12520A	dopamine D1 receptor serotonin SR-2C	IC50	110nM
+HY-12520A	5-HT1C receptor	IC50	1agonist
+HY-12560A	26 resulted in an	Ki	26nM
+HY-12560A	MPTP - lesioned	IC50	60uM
+HY-12560A	Furthermore ,	IC50	26nM
+HY-12560A	and at	Ki	1nAChR
+HY-12588	Ki	Ki	20nM
+HY-12589	JAK3	IC50	10nM
+HY-12600	IAP	IC50s	15nM
+HY-12624	of	IC50	3.8nM
+HY-12624	nM [ 1	IC50	3.8nM
+HY-12624	lymphomas	IC50	1novel
+HY-12624	. [ 1 ]	IC50	3.4uM
+HY-12624	low molecular weight multi - kinase inhibitor identified through	IC50	0.1uM
+HY-12649	in inhibiting LARG	Kd	500uM
+HY-12649	mediated signaling functions	Kd	0.47uM
+HY-12649	Cdc42 catalyzed by	Kd	2.1uM
+HY-12649	affinity	Kd	2.5uM
+HY-12654	hypoxia - inducible factor prolyl hydroxylase	IC50	480nM
+HY-12678	Trk	IC50	1nM
+HY-12678	ALK	IC50	3nM
+HY-12678	ALK	IC50	5nM
+HY-12681	5	IC50	5nM
+HY-12681	Target :	IC50	5nM
+HY-12681	probe for - molecule based screening	IC50	2potent
+HY-12681	1	IC50	9nM
+HY-12681	CCT251545	IC50	10uM
+HY-12710A	α2 adrenergic receptor	Ki	12nM
+HY-12725	920 nM(JMJD2E	IC50	920nM
+HY-12740	phosphodiesterase 4	IC50	2.8nM
+HY-12750	Ki	Ki	1.6nM
+HY-12755	( and	IC50	200nM
+HY-12755	low	IC50	1inhibitor
+HY-12755	potency and selectivity Rab2 ,	IC50	2.6uM
+HY-12755	the	IC50	5.4uM
+HY-12768	- penetrant CSF-1R closest receptor tyrosine kinase homologs	IC50	1nM
+HY-12794	-PIK - III VPS34	IC50	18nM
+HY-12807	PLD1	IC50s	25nM
+HY-12808	cells .	IC50	10nM
+HY-12814	hydrolase MTH1	IC50	5nM
+HY-12814	nudix protein	IC50	1inhibitor
+HY-12833	PP2A	IC50	600nM
+HY-12833	3.5	IC50	1inhibitor
+HY-12833	demethylated PP2A	IC50	600nM
+HY-12838	Dyrk1B(Mirk kianse	IC50	68±48nM
+HY-12838	Dyrk	IC50	22±8nM
+HY-12838	ABL	IC50	68±48,22±8nM
+HY-12838	FLT3	EC50	1.9mmol
+HY-12859	monopolar spindle 1 ( MPS1 ) kinase	IC50	10nM
+HY-12861	bioavailable p97	IC50	11nM
+HY-12868	I PI3K	IC50s	33nM
+HY-12868	mTOR	IC50s	451nM
+HY-12868	mTOR	IC50s	661nM
+HY-12870	estrogen receptor	IC50	0.28nM
+HY-12870A	estrogen receptor	IC50	0.28nM
+HY-12942	acetyl - CoA carboxylase	IC50s	27.0nM
+HY-12942	ACC	IC50s	33.0nM
+HY-12948	PI3Kδ kinase	IC50	18nM
+HY-12953	a novel and specific inhibitor of	IC50	2.5nM
+HY-12953	5 ( ALK5 )	IC50	2.5nM
+HY-12953	a transforming growth	IC50	1novel
+HY-12953	β ( TGF	IC50	2.5nM
+HY-12953	5000-fold more selectivity for ALK5 than	IC50	12.1uM
+HY-12953	mitogen	IC50	1vivo
+HY-12963	Axl receptor tyrosine kinase	IC50	27nM
+HY-12965	AXL	IC50	20nM
+HY-12974	tyrosine kinase Syk	IC50	4nM
+HY-12975	2 TNKS2	IC50s	3nM
+HY-12975	PARP family	IC50s	1nM
+HY-12980	muscarinic receptor	Ki	1.4nM
+HY-12980	hM3 muscarinic	Ki	1.3nM
+HY-12980	Ki	Ki	3.7nM
+HY-12987	dopamine receptor	Kis	1.4nM
+HY-12987	dopamine D2	Kis	2.5nM
+HY-12987	D3 and D1 receptors Ki	Kis	588nM
+HY-12987	STAT3	Ki	39nM
+HY-13002	mTOR	EC50	0.25nM
+HY-13002	PI3 K	EC50	200nM
+HY-13002	Torin 2	IC50	0.5nM
+HY-13009	v + m	IC50	19nM
+HY-13011	ALK	IC50	1.9nM
+HY-13011A	ALK	IC50	1.9nM
+HY-13012	TGFβR-1	IC50	4nM
+HY-13016	receptor tyrosine kinases	IC50s	0.035nM
+HY-13016	c - Met	IC50s	1.3nM
+HY-13017	CFTR	EC50s	100nM
+HY-13017	CFTR	EC50s	25nM
+HY-13018	ULK1	IC50s	160nM
+HY-13018	ULK2	IC50s	19nM
+HY-13020	IGF - IR	IC50s	2.0nM
+HY-13020	insulin receptor	IC50s	1.6nM
+HY-13020	ALK	IC50	0.5nM
+HY-13022	JNK	Ki	25nM
+HY-13022	Ki	Ki	50nM
+HY-13024	Bcr - Abl	IC50	0.8nM
+HY-13024	SRC	IC50	4nM
+HY-13026	PI3 K class I	IC50	2.5nM
+HY-13027	γ	IC50s	115nM
+HY-13034	JAK2	IC50	3nM
+HY-13034	FLT3	IC50	4nM
+HY-13038	Syk	IC50	41nM
+HY-13038B	Syk	IC50	41nM
+HY-13044	δ - opioid receptor	Ki	0.8nM
+HY-13044	Ki	IC50	0.8nM
+HY-13049	c - Kit	IC50s	1nM
+HY-13050	EGFR	IC50s	4nM
+HY-13050	EGFR	IC50s	3nM
+HY-13050	ErbB2	IC50s	4nM
+HY-13058	positive allosteric modulator ( PAM ) of	IC50	170nM
+HY-13060	IKK - β	IC50	8.5nM
+HY-13064	MEK	IC50	4.2nM
+HY-13068	c - Met	IC50s	14nM
+HY-13068	VEGFR2 kinases	IC50s	16nM
+HY-13074	PTEN	IC50	46±10nM
+HY-13076	GSK-3	IC50s	0.65nM
+HY-13076	cdc2	IC50s	0.58nM
+HY-13104	exhibits	IC50	37nM
+HY-13104	P2Y2	IC50	37nM
+HY-13104	.	IC50	1receptor
+HY-13105	nM for	IC50	0.95nM
+HY-13201A	adenosine A2A receptor	Ki	27nM
+HY-13202	Ki	Ki	1nM
+HY-13205	caspase-1	Ki	0.8nM
+HY-13206	Ki	Ki	5nM
+HY-13206	5 mGlu5 receptors	Ki	16nM
+HY-13221	values are 8.7	IC50	8.7pKi
+HY-13221	over	IC50	8.9pKi
+HY-13221	5-HT and IC50 value :	IC50	14nM
+HY-13221	respectively , 7.2 ,	IC50	25-HT
+HY-13222	NOP receptor	IC50	0.27nM
+HY-13222	μ-	IC50	2500nM
+HY-13222	δ - receptors	IC50	6700nM
+HY-13222	receptor BAN ORL 24	IC50	10000nM
+HY-13225B	)	IC50	26nM
+HY-13226	TGF - β receptor	IC50	56nM
+HY-13227	TGF - βRII	IC50	48nM
+HY-13231	CDK9	IC50	39nM
+HY-13233A	peptidase IV DPP - IV	Ki	0.18nM
+HY-13237	LRRK2	IC50s	10nM
+HY-13238	HIV integrase	IC50	2.7nM
+HY-13238A	HIV-1 integrase	IC50	2.7nM
+HY-13241	p38 MAPK	IC50s	5.3nM
+HY-13246	bioavailable Class I PI3 kinase mTOR kinase	IC50s	5nM,27
+HY-13246	mTOR	Ki	17nM
+HY-13252	Aurora A kinase	IC50	0.064nM
+HY-13253	pan	IC50	5nM
+HY-13253	Aurora kinases Aurora A	IC50	4nM
+HY-13253	B	IC50	1nM
+HY-13258	EphB4	IC50	0.395uM
+HY-13258	:	IC50	1.266uM
+HY-13258	signaling .	IC50	1.667uM
+HY-13260	PKA kinase	IC50	6nM
+HY-13263	Chk1	IC50	0.3nM
+HY-13263	PDGFR	IC50s	6.6nM
+HY-13263	FLT3	IC50s	5.8nM
+HY-13269	HIV-1 integrase	IC50	15nM
+HY-13272	ERBB	IC50s	6nM
+HY-13272	EGFR	IC50s	45.7nM
+HY-13280	interleukin-1 receptor associated kinase 4	IC50	160nM
+HY-13281	PI3 K	IC50s	2nM
+HY-13283	other prostanoid	IC50	0.9nM
+HY-13283	expressing	IC50	1.3nM
+HY-13287	Pim kinases	IC50s	7nM
+HY-13287	Pim-1 , -2	IC50s	363nM
+HY-13289A	RS-25560	IC50	8.5±
+HY-13289A	197 dopamine beta - hydroxylase	IC50	0.8±
+HY-13289A	dopamine beta - hydroxylase Dopamine beta - hydroxylase	IC50	9.0±
+HY-13290	calmodulin - dependent protein kinase II	IC50	0.9uM
+HY-13290	CaMK - II	IC50	15nM
+HY-13298	Mps1 kinase	Kd	367nM
+HY-13304	FGFR	IC50s	2.8nM
+HY-13304	FGFR1	IC50s	2.6nM
+HY-13304	FGFR3	IC50s	6.4nM
+HY-13307	Hh	IC50	30nM
+HY-13308	RET	IC50s	13,4.2,46nM
+HY-13308	Raf-1	IC50s	22nM
+HY-13311	FGFR	IC50s	0.9nM
+HY-13311	FGFR1	IC50s	1.4nM
+HY-13311	FGFR3	IC50s	1nM
+HY-13318	influenza virus neuraminidase	IC50	100nM
+HY-13319	JNK	IC50s	4.7nM
+HY-13319	JNK1	IC50s	18.7nM
+HY-13319	JNK2	IC50s	1nM
+HY-13323A	Pol I	IC50s	142nM
+HY-13326	ALK	IC50	3.5nM
+HY-13327	CETP	IC50	5.5nM
+HY-13327	human recombinant CETP protein	IC50	36nM
+HY-13328	mTOR kinase	IC50	1nM
+HY-13330	FGFR	IC50s	0.2nM
+HY-13330	FGFR1	IC50s	2.5nM
+HY-13330	FGFR3	IC50s	1.8nM
+HY-13334	PI3 K	IC50s	4nM
+HY-13340	.	EC50	380nM
+HY-13342	c - Kit	IC50	1nM
+HY-13342	c - Src	IC50s	13nM
+HY-13402	on sPLA2 activity in serum	IC50	7nM
+HY-13404	c - MET kinase	IC50	0.13nM
+HY-13406	CCR5	Ki	1.1nM
+HY-13410	eline(LY246708 IC50 value	IC50	0.006nM
+HY-13410	and A9	EC50	3microM
+HY-13410	cells affinity	EC50	1Xanomeline
+HY-13413	value	Ki	2.9nM
+HY-13413	Target :	Ki	14.9nM
+HY-13413	under	Ki	6.4nM
+HY-13413	to	IC50	2.9,14.9,6.4nM
+HY-13418	AMPK	Ki	109±16nM
+HY-13439	CB2 receptor	Ki	0.6nM
+HY-13449	MEK allosteric	IC50	3.2nM
+HY-13452	pan GTPase	Ki	13nM
+HY-13459	Shh - functional assay	Ki	5.8nM
+HY-13461A	Cdc7	IC50s	10nM
+HY-13461A	Cdk9	IC50s	34nM
+HY-13462	TGFβR - I	IC50	59nM
+HY-13488	selective inhibitor of	IC50s	20.3nM
+HY-13488	) ;	IC50s	3.2nM
+HY-13488	nM ( LRRK2	IC50	2.1uM
+HY-13488	01 exhibited	IC50	0.6uM
+HY-13491	and	IC50	7nM
+HY-13491	nM	IC50	9nM
+HY-13491	Tel - reversible and ( IC50 =	IC50	11nM
+HY-13495	PKA	IC50	14nM
+HY-13495	recombinant STK33	IC50	14nM
+HY-13501	EGFR2	IC50	6nM
+HY-13508	Ki	Ki	4nM
+HY-13508	4 histamin receptors	IC50	4nM
+HY-13508	Ki	Ki	1histamine
+HY-13510	dihydrochloride Sigma 1 receptor	IC50	17.4nM
+HY-13521	ALK7	IC50	129nM
+HY-13522	I PI3Ks and II HDAC HDAC1	IC50	19,54,39nM
+HY-13524	EGFR tyrosine kinase	IC50	3nM
+HY-13526	secretase Notch	IC50	2.92±0.22nM
+HY-13536	PARP	IC50s	5nM
+HY-13537A	FLT3	IC50	11nM
+HY-13561	Src kinase inhibitor	IC50	5nM
+HY-13561	, Tie-2	IC50	5nM
+HY-13561	of Src tyrosine	IC50	1inhibitor
+HY-13561	L3.6pl human pancreatic	IC50	0.7umol
+HY-13604	activity .	IC50	7.1nM
+HY-13604	,	EC50	4.0uM
+HY-13604	,	EC50	1presence
+HY-13604	they	EC50	10nM
+HY-13606	HDAC	IC50	32nM
+HY-13606	HDAC1	IC50	9nM
+HY-13623A	BMS 200475	EC50	3.75nM
+HY-13632	nM and	IC50	30nM
+HY-13632	:	IC50	40nM
+HY-13632	HOXD11	Ki	4.3nM
+HY-13632	2 ] . Exemestane causes	IC50	0.9uM
+HY-13635	5-alpha - reductase	Ki	10nM
+HY-13638	XIAP BIR3 domain	Ki	28nM
+HY-13638	BIR domain	Ki	14nM
+HY-13638	ML - IAP	Ki	17nM
+HY-13638	Ki	Ki	43nM
+HY-13668	methyltransferase MGMT	IC50s	9nM
+HY-13683	progesterone receptor	IC50s	0.2nM
+HY-13683	PR	IC50s	2.6nM
+HY-13687	IκB kinase	IC50s	40nM
+HY-13687	IKK	IC50s	70nM
+HY-13687	IKK	IC50s	200nM
+HY-13689	PKC	IC50	7nM
+HY-13706	prostaglandin D2 receptor CRTH2	Ki	0.6nM
+HY-13706	Ki	Ki	10000nM
+HY-13706	human thromboxane A2 receptor TP	Ki	1200nM
+HY-13738A	, and	Ki	0.87nM
+HY-13746B	S - adenosylmethionine decarboxylase	IC50	5nM
+HY-13773	Toll - like receptor 8	EC50	100nM
+HY-13779	to the induction of brain	IC50	1promotes
+HY-13783	transforming growth factor β	IC50	34nM
+HY-13785	EGFR	IC50s	0.1uM
+HY-13803	Ki	IC50	2.5nM
+HY-13804	Src	IC50	5nM
+HY-13804	tyrosine kinase	IC50	6nM
+HY-13805	Src family kinases	IC50s	4nM
+HY-13805	Lck	IC50s	5nM
+HY-13807	protein lysine methyltransferases GLP	IC50	6nM
+HY-13807	GLP	IC50	6nM
+HY-13807	GLP	IC50	1potent
+HY-13807	GLP	IC50	6nM
+HY-13807	protein lysine methyltransferases and protein arginine methyltransferases	IC50	15nM
+HY-13812	NF - κB	IC50s	11nM
+HY-13812	TNF - α	IC50s	7nM
+HY-13819	aurora A kinase	IC50s	0.6nM
+HY-13820	protein kinase R	IC50	0.9nM
+HY-13823	histone acetyltransferase p300	Ki	400nM
+HY-13838	a	IC50	28,16nM
+HY-13838	was tested against	IC50	28,16nM
+HY-13838	FMS and KIT	IC50	0.11uM
+HY-13838	the	IC50	1.6uM
+HY-13864	Ki	Ki	0.6nM
+HY-13866	PKC	IC50s	5nM
+HY-13866	rat brain PKC	IC50s	24nM
+HY-13866	MAPKAP - K1b	IC50s	14nM
+HY-13866	MSK1	IC50s	27nM
+HY-13866	S6K1	IC50s	24nM
+HY-13866	MKK3	IC50s	23nM
+HY-13866	MKK4	IC50s	3nM
+HY-13895	EGFR	IC50s	4nM
+HY-13895	modestly	IC50s	1.8uM
+HY-13896	393 of	IC50	0.70nM
+HY-13896	nM	IC	50nM
+HY-13896	irreversibly	IC	0.7nM
+HY-13896	Cys-773	IC	1inhibite
+HY-13896	50	IC	1inhibite
+HY-13897	irreversible EGFR	IC50	20nM
+HY-13898	small molecule PI3 K	Ki	0.29nM
+HY-13898	Ki	Ki	0.91nM
+HY-13902	Ki	Ki	0.2nM
+HY-13902	ATM	Ki	34nM
+HY-13904	multi - kinase	IC50	1.2nM
+HY-13904	c - Abl	IC50	307.6nM
+HY-13905	of 1.2	IC50	1.2nM
+HY-13907	FLT3	IC50	42nM
+HY-13907	FLT3	IC50	42nM
+HY-13907	TCS FLT3	IC50	340nM
+HY-13909	HDACs	IC50	80nM
+HY-13917	186 FAK	IC50	1.5nM
+HY-13928	PPAR β	IC50	1nM
+HY-13928	human PPARδ	EC50s	1nM
+HY-13928	human PPARδ	EC50s	1.1uM
+HY-13943	,	IC50	1nM
+HY-13943	the	IC50	1nMcontinuous-read
+HY-13945	and	IC50	12nM
+HY-13953	Jumonji histone demethylase	IC50s	230nM
+HY-13954	Target : BzATP	IC50	20nM
+HY-13955	angiotensin II type 1 receptor	IC50	9.2nM
+HY-13967B	its activity	IC50	13nM
+HY-13967B	with an	EC50	1agonist
+HY-13968	β - catenin	IC50s	1.9uM
+HY-13968	PARP domain	IC50s	830nM
+HY-13979	DDR1 receptor tyrosine kinase	EC50	105nM,87
+HY-13979	collagen	IC50	105nM
+HY-13980	42 GLP	IC50	2.5nM
+HY-13993A	subunit combinations	IC50	0.009uM
+HY-13993A	: 9 nM	IC50	52uM
+HY-13994	Mps1	Kd	145nM
+HY-14137	cannabinoid receptor	Ki	1.8nM
+HY-14167	cannabinoid receptor 2	IC50	63nM
+HY-14178	e ERK	Ki	2nM
+HY-14179	IC50 of ~90	IC50	90nM
+HY-14179	vitro	IC50	1potent
+HY-14179	pH , and therefore	IC	50approximately
+HY-14179	to	IC	90prior
+HY-14185	WAY	IC50	1.2nM
+HY-14185	VPA vasopressin receptor V2	IC50	2.3nM
+HY-14247	aromatase	IC50	6.4nM
+HY-14247A	aromatase	IC50	6.4nM
+HY-14248	aromatase	IC50	1-13nM
+HY-14258A	of citalopram ,	Ki	0.89nM
+HY-14268	with	Ki	0.6nM
+HY-14268	also vasoconstriction	IC50	0.6nM
+HY-14268	fructose	Ki	1xanthine
+HY-14268	2	Ki	0.6nM
+HY-14274	aromatase	IC50	15nM
+HY-14280	potent , peripherally	IC50	151nM
+HY-14291	,	IC50	2.3nM
+HY-14291	-	IC50	200mol
+HY-14350	molecule protease	IC50	200-1000nM
+HY-14350	assays ,	EC50	1agonist
+HY-14369	human GnRH receptor	Ki	0.25nM
+HY-14369	GnRHR	Ki	3.7nM
+HY-14383	a potent , orally	IC50	7nM
+HY-14383	) .	Ki	1androgen
+HY-14383	in	Ki	7nM
+HY-14397	COX1	IC50s	18nM
+HY-14397	human COX-1	IC50s	26nM
+HY-14413	Ki	Ki	220nM
+HY-14418	mGlu4 receptor	EC50	240nM
+HY-14418	rat receptors	EC50	110nM
+HY-14418	mGlu8 receptors	IC50	110nM
+HY-14418	mGlu6	EC50	240nM
+HY-14426	a potent	Ki	0.45nM
+HY-14426	selective	IC50	0.45nM
+HY-14426	.	Ki	0.45nM
+HY-14539	Ki	Ki	9.5nM
+HY-14541	5-HT2 serotonin and D2 dopamine receptor	Ki	4nM
+HY-14541	Receptor Olanzapine	Ki	11nM
+HY-14546	human 5-HT1A receptor	Ki	4.2nM
+HY-14562	acetylcholine binding site NMDA receptor	IC50	289nM
+HY-14566	)	E	2020specific
+HY-14566	respectively	IC50	8.12nM
+HY-14574	aurora A aurora B	IC50s	0.8nM
+HY-14586	steroid sulfatase	IC50	8nM
+HY-14588	HIV protease	Ki	1.3pM
+HY-14588	Ki	IC50	1.7mM
+HY-14588	HIV protease Lopinavir	IC50	9.4nM
+HY-14588	P - glycoprotein immunoreactive protein	IC50	7.3mM
+HY-14612	- binding	EC	50values
+HY-14612	values	EC	400nM
+HY-14612	response	EC	800nM
+HY-14649	RAR nuclear receptors	Kd	17nM
+HY-14660	Raf	IC50s	5nM
+HY-14660	C - Raf	IC50s	0.6nM
+HY-14660A	Raf kinase	IC50s	0.6nM
+HY-14660A	c - Raf	IC50s	5.0nM
+HY-14667	microsomal triglyceride - transfer protein	IC50	8nM
+HY-14674	of	IC50	10nM
+HY-14674	640-fold selectivity	IC50	10nM
+HY-14674	nM [ IC50 nM , but is markedly	IC50	1selectively
+HY-14674	potent	IC50	6.4uM
+HY-14691	MEK1	IC50s	19nM
+HY-14691	MEK2	IC50s	47nM
+HY-14711	Aurora kinase	IC50s	400nM
+HY-14711	Aurora A	IC50s	500nM
+HY-14711	Aurora B	IC50s	400nM
+HY-14715B	Ki	IC50	3nM
+HY-14718A	HDAC1	IC50	42.5nM
+HY-14720	Chk1	IC50	7nM
+HY-14721	c - Met	IC50	4nM
+HY-14731	Ki	IC50	13nM,26
+HY-14734	ghrelin receptor	EC50	0.74nM
+HY-14734A	ghrelin receptor	EC50	0.74nM
+HY-14740	HIV integrase	IC50	0.7nM
+HY-14751	neurokinin NK1 receptor	Ki	0.66nM
+HY-14761	JNK	IC50	80nM
+HY-14761	JNK1	IC50	90nM
+HY-14761	JNK2	IC50	230nM
+HY-14791A	cannabinoid-1	IC50	22nM
+HY-14842B	HDAC	IC50	198nM
+HY-14842B	HDAC1	IC50	157nM
+HY-14861A	5-HT1F receptor agonist	Ki	1043nM
+HY-14861A	5-HT(1B ) and	Ki	1357nM
+HY-14861A	; > 1000	Ki	1B5-HT
+HY-14861A	, 5-HT1B/5-HT1D )	Ki	1Dreceptors
+HY-14861A	receptor in studies Lasmiditan showed	IC50	2.1nM
+HY-14861A	5-HT(1 ) 5-HT(1F ) receptor agonist LY334370 .	Ki	1000nM
+HY-14872	GSK-3	IC50s	5nM
+HY-14874	kg	IC50	5.3nM
+HY-14874	,	IC50	5.3nM
+HY-14879A	β - lactamase	IC50s	8nM
+HY-14879A	β - lactamase TEM-1	IC50s	5nM
+HY-14879B	β - lactamase	IC50	8nM
+HY-14879B	β - lactamase TEM-1	IC50	5nM
+HY-14914	-	IC50	2.6nM
+HY-14914	an	IC50	2.6inhibitory
+HY-14914	to washout (	IC	50value
+HY-14914	and	IC	7.4nM
+HY-14914	1 ] .	IC50	9.2nmol
+HY-14940	5-HT2 receptor	Ki	0.36nM
+HY-14981	PDK1	IC50	10nM
+HY-14992	0 Ki	Ki	3.8nM
+HY-15001	egenin aryl hydrocarbon receptor	IC50	127nM
+HY-15002	RET kinase	IC50	880nM
+HY-15002	RET	IC50	520nM
+HY-15023	nonpeptide oxytocin receptor	Ki	9.5nM
+HY-15023	Ki	IC50	9.5nM
+HY-15023	oxytocin receptor	IC50	1oxytocin
+HY-15036	COX	IC50s	4nM
+HY-15036	human COX-1	IC50s	1.3nM
+HY-15036A	COX	IC50s	4nM
+HY-15036A	human COX-1	IC50s	1.3nM
+HY-15037	fenac GP 45840	IC50s	4nM
+HY-15037	COX	IC50s	1.3nM
+HY-15069	NMDA	Ki	3.2nM
+HY-15069	Ki	Ki	100nM
+HY-15069	NMDA	Ki	8.5uM
+HY-15069A	NMDA	Ki	3.2nM
+HY-15069A	Ki	Ki	100nM
+HY-15069A	NMDA	Ki	8.5uM
+HY-15136	bioavailable farnesyl protein transferase H - ras	IC50	1.9nM
+HY-15136	K - ras	IC50	5.2nM
+HY-15136	N - ras	IC50	2.8nM
+HY-15144	ostatin HDAC class I / II	IC50	1.8nM
+HY-15147	tankyrase	IC50s	5nM
+HY-15147	TNKS Wnt	IC50s	2nM
+HY-15158	SBE13	IC50	200pM
+HY-15160	polo - like kinase 1	IC50	0.8nM
+HY-15160B	polo - like kinase 1	IC50	0.8nM
+HY-15164	EGFR	IC50	5nM
+HY-15164A	EGFR	IC50	5nM
+HY-15166	JAK2	IC50	13nM
+HY-15166	FLT3	IC50	73nM
+HY-15166	JAK2	IC50	56nM
+HY-15174	PI3 K	IC50	4nM
+HY-15174	mTOR kinase	IC50	75nM
+HY-15185	γ - secretase	IC50	6.2nM
+HY-15186	Akt	IC50s	5nM
+HY-15186A	Akt	IC50	5,18,8nM
+HY-15187A	synthetic kinesin spindle protein	IC50	6nM
+HY-15190	Hsp90	IC50	0.6nM
+HY-15217	histone H3T3	IC50	2nM
+HY-15222	Menin - MLL interaction	IC50	446±28nM
+HY-15223	a -	IC50	648nM
+HY-15223	The	IC50	25nM
+HY-15223	-	IC50	648nM
+HY-15223	μM for MI-2	IC50	25nM
+HY-15223	only	IC50	1menin-MLL
+HY-15224	HDAC isoforms	IC50	10nM
+HY-15240	c - Kit	IC50s	200nM
+HY-15243	growth hormone secretagogue receptor	Ki	7hGHS-R1a
+HY-15245	Ki	Ki	0.89nM
+HY-15247	mTOR	IC50	2.81nM
+HY-15248	mTOR	Ki	3.8nM
+HY-15249	monoacylglycerol lipase	IC50s	8nM
+HY-15249	fatty acid amide hydrolase	IC50s	4uM
+HY-15250	in our competitive ABPP	IC50	13nM
+HY-15251	chemokine receptors CXCR1	IC50s	1nM
+HY-15251	CXCR2	IC50s	100nM
+HY-15259A	Acetyl - CoA carboxylase ACC	IC50s	53nM
+HY-15270	JAK2	IC50s	1.1nM
+HY-15270	JAK1	IC50	75nM
+HY-15270	JAK3	IC50	360nM
+HY-15273	GLP histone	IC50s	15nM
+HY-15275	E with	IC50	6nM
+HY-15275	and	IC50	9nM
+HY-15275	nM ,	IC50	0.23uM
+HY-15275	cycD	IC50	0.76uM
+HY-15275	binding	EC50	0.293uM-0.492
+HY-15282	papain	IC50	9nM
+HY-15289	H3 autoreceptor	IC50	9.2nM
+HY-15290	molecule Ack1 Ack1	IC50	24nM
+HY-15290	AKT	IC50	24nM
+HY-15290	Ack1 AR Tyr(267	IC50	3inhibitor
+HY-15315	JAK1	IC50s	5.9nM
+HY-15315	JAK2	IC50s	5.7nM
+HY-15315A	JAK1	IC50	5.9nM
+HY-15315A	JAK2	IC50	5.7nM
+HY-15323	Syk	IC50	1-2nM
+HY-15342	D prostanoid receptor 2	IC50	13nM
+HY-15343	JAK2	IC50	1.8±0.6nM
+HY-15356	GSK-3	IC50s	10nM
+HY-15371	adenylate cyclase activator	EC50	41nM
+HY-15393	allosteric site F585I	EC50	33nM
+HY-15394	otigotine Hcl is selectivity agonist	Ki	0.69nM
+HY-15394	other neuronal receptors	Ki	0.69nM
+HY-15394	Ki in nM	Ki	10beta-adrenoceptor
+HY-15411	neuropeptide Y5 receptor	Ki	1.6nM
+HY-15414	5-HT1A	Ki	15nM
+HY-15414	5-HT7 receptor	Ki	33nM
+HY-15414	Ki	Ki	3.7nM
+HY-15414A	5-HT1A	Ki	15nM
+HY-15414A	5-HT7 receptor	Ki	33nM
+HY-15414A	Ki	Ki	3.7nM
+HY-15417	MLCK	IC50	10uM
+HY-15418	CCR2 chemokine receptor	IC50	89nM
+HY-15418	human recombinant CCR2	IC50	100uM
+HY-15420	CB2 receptor ligand	Ki	435nM
+HY-15420	Ki	Ki	2uM
+HY-15424	adenosine kinase	IC50	26nM
+HY-15425A	Citrate	Ki	4.3nM
+HY-15431	AKT kinase	IC50	3nM
+HY-15438	Ki	IC50	77.5nM
+HY-15441	human recombinant PDE9A	IC50	1000nM
+HY-15445	mGlu receptors	IC50	2.2nM
+HY-15450A	monocyte chemoattractant protein-1	IC50	3.7nM
+HY-15451	receptor agonist	Ki	43.3nM
+HY-15451	: CB2	K	43.3vs
+HY-15451	in vitro	K	10.3vs
+HY-15451	4-fold - higher	K	162.4nM
+HY-15451	at the human	K	7.6nM
+HY-15451	and nearly 70-fold	K	16.3vs
+HY-15451	than at the rat	K	2.1vs
+HY-15451	( K(i ) = 16.3 +	K	1130nM
+HY-15451	] functional assays	K	574nM
+HY-15455	PDE5 isoenzymes	IC50s	0.7nM
+HY-15456	Met ) .	IC50	14nM
+HY-15456	,	IC50	14nM
+HY-15457	Akt	IC50	130nM
+HY-15461	sodium	IC50	0.877nM
+HY-15461A	sodium	IC50	0.877nM
+HY-15468	prolyl hydroxylase-2	IC50	22nM
+HY-15469	both sucrose and NaCl ATP and BzATP	IC50	7pIC50
+HY-15472	line	IC50	3.4nM
+HY-15478	CXCR4	EC50	0.3nM
+HY-15479	CK2	IC50	100nM
+HY-15479	Ki	Ki	40nM
+HY-15482	of 62 nM by	IC50	74nM
+HY-15482	active	IC	50nM
+HY-15490	casein kinase	IC50s	7.7nM
+HY-15490	CK1ε	IC50s	14nM
+HY-15494	insulin - like growth factor-1 receptor	IC50	1nM
+HY-15511	tyrosine kinase	IC50	500nM
+HY-15518	1 IAP	IC50s	35nM
+HY-15521	mTOR	IC50s	0.6nM
+HY-15530	antigen receptor	IC50	70nM
+HY-15531	bioavailable Bcl-2	Ki	0.01nM
+HY-15535	CK2	IC50	130nM
+HY-15538	l )	Ki	1kg
+HY-15542B	p21-activated kinase	IC50s	14nM
+HY-15542B	PAK	IC50s	33nM
+HY-15556	ROCK	IC50s	1.6nM
+HY-15556	recombinant human ROCK1	IC50s	4nM
+HY-15557	mTOR	IC50	5nM
+HY-15565	glycated hemoglobin	EC50	2.7nM
+HY-15601	Receptor	EC50	291nM
+HY-15640	TRPV1 receptor	IC50	562nM
+HY-15648	H3K27me3	IC50	60nM
+HY-15649	containing	Kd	120nM
+HY-15649	directly binds	Kd	1nM
+HY-15649	via the Kme - binding	K	120nM
+HY-15650	DOT1L methyltransferase	IC50	0.3nM
+HY-15650	DOT1L	IC50	0.3nM
+HY-15650	histone methyltransferases	IC50	2.6nM
+HY-15656	ALK	IC50	0.2nM
+HY-15656A	dihydrochloride ALK	IC50	0.2nM
+HY-15658	BAZ2A	IC50	136nM,257
+HY-15666	and	IC50	0.34nM
+HY-15666	0.34 and 0.68 nM	IC50	0.68nM
+HY-15666	-	IC	50values
+HY-15666	wt	IC	0.2nM
+HY-15666	) , and	IC	0.13nM
+HY-15666	Abl(WT ) or	IC	48.7reasonable
+HY-15676	MDM2	IC50	6nM
+HY-15687	ROCK	IC50	135nM
+HY-15687A	ROCK	IC50	135nM
+HY-15689	indoleamine 2,3-dioxigenase 1	IC50	71.8nM
+HY-15707	nM [	IC50	9nM
+HY-15707	amino	IC50	1channel
+HY-15707	residues conferring sensitivity	IC50	9nM
+HY-15713	VCP	IC50	30nM
+HY-15722	Receptor in	Ki	250nM
+HY-15730	HM781	IC50s	3,5,23nM
+HY-15730	/	IC50	3,5,23nM
+HY-15730	respectively	IC50	0.003uM
+HY-15730	family	IC50	0.005uM
+HY-15743	IC50s	IC50s	92nM
+HY-15749	kinase Bcr - Abl	IC50s	5nM
+HY-15749	Aurora A	IC50s	3.1nM
+HY-15749	Src	IC50s	1.6nM
+HY-15749	Lyn	IC50s	6.1nM
+HY-15760	death domain kinase RIP	EC50	490nM
+HY-15761	GSK-3	IC50s	0.9nM
+HY-15762	COX-2	IC50s	5nM
+HY-15762	COX-2	IC50s	140uM
+HY-15764A	Src family kinases	IC50s	9nM
+HY-15764A	Src	IC50s	3nM
+HY-15764A	Lck	IC50s	3nM
+HY-15768	metalloprotease	Ki	0.4nM
+HY-15768	MMP	Ki	0.5nM
+HY-15768	Ki	Ki	27nM
+HY-15771	BTK	IC50	2.2nM
+HY-15772	EGFR	IC50s	12nM
+HY-15772	T790 M	IC50s	1nM
+HY-15773	S6K1	Ki	20nM
+HY-15773	Ki	IC50	160nM
+HY-15777B	cyclin B	IC50	10nM
+HY-15777C	cyclin B	IC50	10nM
+HY-15780	human 5-HT1A and dopamine receptor	Kis	0.12nM
+HY-15780	5-HT2A receptor	Kis	0.3nM
+HY-15780	Ki	Ki	0.47nM
+HY-15797	versus Tyro3 .	IC50	9.8nM
+HY-15798	Mer kinase	IC50	22nM
+HY-15798	Mer kinase	IC50	22nM
+HY-15798	Mer kinase	IC50	1inhibitor
+HY-15800A	4.76 type	IC50	4.76nM,6.87
+HY-15802	NUAK kinase	IC50	20nM,100
+HY-15816	ERK1	IC50	0.3nM
+HY-15826	p300	IC50	38nM
+HY-15832	Wip1 phosphatase	IC50	6nM
+HY-15834A	nonpeptide	IC50	9.2nM
+HY-15834A	cortical	IC50	3.9nM
+HY-15841	FAK	IC50	2.3nM
+HY-15841	ALK	IC50	75human
+HY-15841	FAK	IC50	2.3nM
+HY-15841	FAK	IC50	75human
+HY-15874	FLAP(5-Lipoxygenase - activating protein	IC50	2.9nM
+HY-15874A	FLAP(5-Lipoxygenase - activating protein	IC50	2.9nM
+HY-15878	CDK9	IC50	44±10nM
+HY-15889A	FLT3	IC50s	2±1nM
+HY-15889A	CDK4	IC50s	3±1nM
+HY-15897	BMP	IC50	1.3nM
+HY-15897	BMP	IC50	1vitro
+HY-15898	phenylpyrazoleanilide	IC50	20nM
+HY-15898	inhibits	IC50	60nM
+HY-15898	-	IC50	20nM
+HY-15898	1	IC50	60nM
+HY-15900	PI3 K	IC50s	160nM
+HY-15900	I PI3 K PK mTOR	IC50s	910nM
+HY-15951	Cdc2-like kinase	IC50	136nM
+HY-15965	Akt	IC50	180,328,38nM
+HY-15968	Syk	IC50	7.7nM
+HY-15971	CXCR4	IC50s	0.75nM
+HY-15971	12G5 mAb	IC50s	18nM
+HY-15979A	protein kinase	IC50	48nM
+HY-15982	IL-12	IC50	5.2nM
+HY-15986	Hsp90	IC50	25nM
+HY-16026	HDAC6	IC50	5nM
+HY-16026	HDAC1	IC50s	58nM
+HY-16060	androgen receptor	IC50	16nM
+HY-16069	HER2	IC50	8nM
+HY-16071	multi	IC50s	38nM,402
+HY-16071	AGC kinase p70S6 K	IC50s	8nM
+HY-16071	PKA	IC50s	3nM
+HY-16071	ROCKI	IC50s	6nM,4
+HY-16082	of	IC50	36.8nM
+HY-16082	PDHK1/2	IC50	6.4nM
+HY-16082	nM compounds in this	EC	50value
+HY-16082	contrast ,	EC	5.2nM
+HY-16141	integrin	IC50s	4nM
+HY-16141	αvβ3	IC50s	79nM
+HY-16273A	I Ki - Ras	IC50	2nM
+HY-16273A	farnesyltransferase	IC50	98nM
+HY-16273A	unprenylated	IC50	2nM
+HY-16294	glycogen synthase kinase-3	IC50	1.5nM
+HY-16294	GSK-3	IC50	0.9nM
+HY-16297	CDK4	IC50s	2nM
+HY-16297	CDK6	IC50s	10nM
+HY-16305	histone	IC50	3nM
+HY-16346	a highly	Ki	0.95nM
+HY-16346	and selective , active neurokinin-1	IC50	0.95nM
+HY-16346	1 ]	Ki	1receptor
+HY-16391	bioavailable smoothened human SMO	IC50	4nM
+HY-16425	brain - penetrant HDAC	IC50	60nM
+HY-16425	HDAC1	IC50	50nM
+HY-16446	MET receptor tyrosine kinase	IC50	4.2nM
+HY-16500	aldose reductase	IC50	35nM
+HY-16526	class I PI3Ks	IC50s	39nM
+HY-16567	5A	Ki	1.3nM
+HY-16567	Ki	Ki	0.42nM
+HY-16567	Dopamine receptor	Ki	1.1nM
+HY-16569	tubulin	IC50	3nM
+HY-16582	odegib diphosphate LDE225 diphosphate	IC50	1.3nM
+HY-16585	PI3K	IC50s	16nM
+HY-16585	mTOR kinase	IC50s	68nM
+HY-16585	mTOR	IC50s	42nM
+HY-16585	VS-5584	IC50s	25nM
+HY-16635	a G protein - coupled	IC50	6.0nM
+HY-16665	β - catenin	IC50	40.3nM
+HY-16671	CFTR	Ki	300nM
+HY-16689	molecule neuronal K - Cl cotransporter	IC50	560nM
+HY-16689	- Cl Na - K-2Cl cotransporter	IC50	560nM
+HY-16689	neuronal - specific potassium - chloride cotransporter 2	IC50	1cotransporter
+HY-16689	Na - K-2Cl cotransporter 1	IC	50nM
+HY-16711	CXCR2	IC50	22nM
+HY-16712	ALK2	IC50	22nM
+HY-16712	ALK2	IC50	100fold
+HY-16712	ALK2	IC50	22nM
+HY-16749	CSF1R	IC50s	20nM
+HY-16749	c - Kit	IC50s	10nM
+HY-16749	c - Kit	IC50s	160nM
+HY-16749	CSF1R	IC50s	350nM
+HY-16749	FLT3	IC50s	860nM
+HY-16749	KDR	IC50s	880nM
+HY-16749A	CSF1R	IC50s	20nM
+HY-16749A	c - Kit	IC50s	10nM
+HY-16749A	c - Kit	IC50s	160nM
+HY-16749A	CSF1R	IC50s	350nM
+HY-16749A	FLT3	IC50s	860nM
+HY-16749A	KDR	IC50s	880nM
+HY-16755	JAK1	IC50	9.8nM
+HY-16782	p38 MAPK	IC50s	1nM
+HY-16787	nanomolar potent nM nM Target inhibitory	IC50	19nM
+HY-16900	ram phosphodiesterases PDE4	IC50s	3nM
+HY-16900	PDE4A	IC50s	130nM
+HY-16900A	PDE4A	IC50	3nM
+HY-16910	Wnt	EC50	75nM
+HY-16910	β - catenin	EC50	2nM
+HY-16936	penetrant LRRK2 T JH	IC50	6.6nM
+HY-16936	G2019S mutant LRRK2	IC50	2.2nM
+HY-16936	JH	IC50	2.2n
+HY-16936	type LRRK2 G2019S mutant	IC50	6.6nM
+HY-16956	mTOR kinase	IC50	16nM
+HY-16961	receptor tyrosine kinase	IC50s	1.5nM
+HY-16961	RTK	IC50s	2nM
+HY-16961	FLT3	IC50s	2nM
+HY-16962	mTOR kinase	IC50s	13nM
+HY-16962A	mTOR kinase	IC50s	13nM
+HY-16965	MTH1	IC50	0.8nM
+HY-16965	nudix protein	IC50	0.8nM
+HY-16978	shows - , >	IC50	7.5uM
+HY-16978	EP3 ,	IC50s	10uM
+HY-16978	over : serotonin	IC50	7.5uM
+HY-16985	androgen receptor	IC50	26nM
+HY-16986	( LCC	Ki	3nM
+HY-17010	E.coli	Kd	3nM
+HY-17015	neuraminidase neuraminidase	IC50	0.09nM
+HY-17041	HIV protease	Ki	1nM
+HY-17355	is	Ki	3.9nM
+HY-17355	of 3.9 nM(D2S ) ; 2.2	Ki	2.2nM
+HY-17355	; 0.5	Ki	0.5nM
+HY-17355	) Target	Ki	5.1nM
+HY-17355	Dopamine	Ki	3.9nM
+HY-17355	are 3.9 , D2S , D3	Ki	3.3nM
+HY-17355	D1 and	Ki	0.5nM
+HY-17372	COX-2	IC50s	26nM
+HY-17372	human COX-2	IC50s	18nM
+HY-17372	COX-2	IC50	50uM
+HY-17379	HMG - CoA reductase	IC50	8nM
+HY-17380	β - adrenergic receptor	Ki	1.97nM
+HY-17380	Ki	Ki	2.0nM
+HY-17385	Tomoxetine Hcl	Ki	5nM
+HY-17385	Ki	Ki	77nM
+HY-17385	radioligand	Ki	1451nM
+HY-17385	human	IC50	5nM
+HY-17385	DAT	Ki	1uM
+HY-17395A	squalene epoxidase	Ki	30nM
+HY-17408	HMGCR	Ki	1nM
+HY-17408	HMG - CoA reductase	IC50	1nM
+HY-17416	α2A - adrenoceptor	Kd	31nM
+HY-17443	of human	IC50	44nM
+HY-17443	mouse 44	IC50	44nM
+HY-17443	[	IC50	1neutrophil
+HY-17443B	of human	IC50	44nM
+HY-17443B	mouse 44	IC50	44nM
+HY-17443B	[	IC50	1neutrophil
+HY-17453	beta-2 adrenergic receptor	Ki	1.5nM
+HY-17502	statin MK	Ki	0.2nM
+HY-17504	astatin Calcium a constant of 8.5 μM	IC50	11nM
+HY-17512	angiotensin II receptor	IC50	20nM
+HY-17512A	angiotensin II receptor type 1	IC50	20nM
+HY-17537	IRE1α RNase	IC50	280nM
+HY-17543	Rho	IC50	76nM
+HY-17543	Ki	Ki	68nM
+HY-17600	BTK	IC50	3nM
+HY-17603	ALK	IC50	0.7nM
+HY-17604	2 insulin	IC50	5.6uM
+HY-17606	sphingosine 1-phosphate 1 receptor	EC50	2.7nM
+HY-18006	of which vitro(IC50=2.6 characterized by . Species	IC50	2.6nM
+HY-18008	IκB kinase	IC50	88nM
+HY-18030A	28122 a	IC50	1.9nM
+HY-18030A	IC50	IC50	0.5nM
+HY-18030A	induces	IC50	1.9nM
+HY-18030A	:	IC50	0.5nM
+HY-18055	11β - Hydroxysteroid dehydrogenase type 1	IC50	52nM
+HY-18056	1 11βHSD1 vitro	Ki	1nM
+HY-18056	assay against human (	IC50	1nM
+HY-18086	Pim-1 kianse	IC50	50nM
+HY-18086	MEK1	IC50s	20,000nM
+HY-18086	Pim-1 TCS PIM-1 1	IC50	50nM
+HY-18086	ATP - binding site	IC50	1Pim-1
+HY-18086	Pim-1	IC50	20lM
+HY-18161	FLT3	Kd	7.5nM
+HY-18161	Aurora kinase	IC50	38nM
+HY-18161	Aurora kinases	Kd	48nM
+HY-18161	Aurora - A	Kd	6.2nM
+HY-18161	Aurora - B	Kd	38nM
+HY-18161	FLT3 kinase	Kd	14nM
+HY-18174	competitive checkpoint kinase 1 Chk1	Ki	1nM
+HY-18174	Ki	Ki	0.9nM
+HY-18174A	Chk1 protein kinase	IC50s	1nM
+HY-18174A	Ki	IC50s	8nM
+HY-18208	metalloproteases ACE	Ki	0.64nM
+HY-18208	Ki	Ki	0.45nM
+HY-18252	Target :	IC50	5.2nM
+HY-18299	-	IC50	6nM
+HY-18299	kinase inhibitor	IC50	6nM
+HY-18299	IC50	IC50	9nM
+HY-18299	of 6	IC50	10,000nM
+HY-18299	nM for cdc2 / cyclin B	IC50	6nM
+HY-18299		E	6nM
+HY-18299	Value :	E	1cdc2
+HY-18299	; 6 nM(cdk2 /	IC50	1addition
+HY-18299A	alanol CDK	IC50s	4nM
+HY-18299A	cdc2-cyclin B	IC50s	70nM
+HY-18299A	cdk2-cyclin A	IC50s	35nM
+HY-18299A	cdk2-cyclin E	IC50s	850nM
+HY-18299A	cdk4-cyclin D1	IC50s	75nM
+HY-18300	JAK1	IC50	10nM
+HY-18300	JAK1	IC50	28nM
+HY-18300	JAK2	IC50	810nM
+HY-18300	JAK3	IC50	116nM
+HY-18304	LIMK1	IC50s	5nM
+HY-18304	LIMK2	IC50s	6nM
+HY-18305	LIMK1	IC50s	7nM
+HY-18305	LIMK2	IC50s	8nM
+HY-18314	Tropomyosin - related kinase A	IC50	2nM
+HY-18346	nonpeptide vasopressin V2 receptor	IC50	14nM
+HY-18347A	vasopressin receptor	Ki	0.48nM
+HY-18347A	Ki	Ki	3.04nM
+HY-18360	class IIa histone deacetylase	IC50s	157nM
+HY-18360	HDAC	IC50s	97nM
+HY-18602	FGFR	IC50	3.1nM
+HY-18602	FGFR1	IC50	4.3nM
+HY-18602	FGFR3	IC50	27nM
+HY-18609	EGFR family	IC50s	8pM
+HY-18609	8	IC50s	49nM
+HY-18609	EGFR	IC50s	52nM
+HY-18609	ErbB2	IC50s	52nM
+HY-18610	inhibitor of	IC50	0.74nM
+HY-18619	. IC50	IC50	85.7nM
+HY-18619	dependent manner (	IC50	4.02uM
+HY-18627A	SETD7 ( R)-PFI-2	IC50	2nM
+HY-18627A	other	IC50	500fold
+HY-18628	BH3 binding groove	Ki	490nM
+HY-18629	CDK4	IC50	22nM
+HY-18630A	OSC	IC50	6.5nM
+HY-18634	p53	IC50	8nM
+HY-18644	αV integrins	IC50s	0.2nM
+HY-18652	MEK	IC50	8.2nM
+HY-18652	MEK	IC50	56nM
+HY-18664	binding to	IC50	80nM
+HY-18664	construct	IC50	80nM
+HY-18664	- acetylated	Kd	50uM
+HY-18665	histone H3	IC50	80nM
+HY-18665	Halotagged histone H3	IC50	80nM
+HY-18682	polo - like kinase 4	Ki	0.16nM
+HY-18683	inone - B PLK4	Ki	0.59nM
+HY-18690	IDH2 mutant	IC50s	100nM
+HY-18696	and highly	IC50	5nMenzymatic
+HY-18696	exquisite selectivity	IC50	5nMvitro
+HY-18696	lipid	IC50	1vitro
+HY-18696	IC50	IC50	10nM
+HY-18700	954 nM (	IC50	36nM
+HY-18700	: HDAC BRD73954 is	IC50	120nM
+HY-18700	first	IC50	36nM
+HY-18708	FGFR family	IC50s	1.2nM
+HY-18712	HDAC class I	IC50	289greatly
+HY-18712	HDAC1	IC50s	2uM
+HY-18712	HDAC1	IC50s	2.2uM
+HY-18712	HDAC	IC50s	20uM
+HY-18714	bacterial	EC50	200nM
+HY-18714	gyrase gyrase	IC50	200nM
+HY-18714	aryl	EC50	200nM
+HY-18731	NO synthase Ki	Ki	7nM
+HY-18741	trypsin - like	IC50	1nM
+HY-18741	chymotrypsin - like	IC50	3uM
+HY-18741	caspase	IC50	1nM
+HY-18741	trypsin - like proteasome	IC50	3uM
+HY-18750	EGFR	IC50s	0.3nM
+HY-18767	mutant isocitrate dehydrogenase 1	IC50	12nM
+HY-18768	aldehyde dehydrogenase 1A1	IC50	40nM
+HY-18768	isozymes dehydrogenases	IC50	57uM
+HY-18768	Target	IC50	40nM
+HY-18937	RIPK2 kinase	IC50	0.13uM
+HY-18937	NF - κB	IC50	0.13uM
+HY-18939	A1 receptor	EC50	8.2nM
+HY-18951	Btk	IC50	2analog
+HY-18955	MEK	IC50	4nM
+HY-18955	aurora kinases	IC50	15nM
+HY-18958	seletive Chk1	IC50	1.3nM。
+HY-18972	Raf	IC50	5nM
+HY-18977	proteomes human brain proteomes	IC50	5.9nM
+HY-18977	serine hydrolases	IC50	15nM
+HY-18978	adenosine A1 receptor	Ki	3.1nM
+HY-18978	Ki	IC50	3.1nM
+HY-18986	a highly	IC50	0.88nM
+HY-18988	β - catenin	IC50	2.9nM
+HY-18998	HDAC4/5	IC50s	4.22nM
+HY-18998	HDAC1	IC50s	11.9nM
+HY-19317	aryl hydrocarbon receptor	Ki	3nM
+HY-19320	n 2 Receptor Orexin 2 Receptor Orexin 2 Receptor	EC50	70agonist
+HY-19320	- Ki	IC50	23nM
+HY-19323	ATR	IC50	1nM
+HY-19327	bioavailable HDAC6 HDAC1	IC50s	1.7nM
+HY-19329	ATX	IC50	28nM
+HY-19329	ATX	IC50	28nM
+HY-19329	ATX	IC50	2completely
+HY-19344	integrin	IC50	2.98nM
+HY-19347	containing protein 5 WDR5 - 0103	Kd	450nM
+HY-19347	MLL	IC50	450nM
+HY-19347	MLL	IC50	39±10increase
+HY-19348	tight	IC50	150nM
+HY-19348	class I HDAC	IC50	760nMnM
+HY-19348	HDAC 1	IC50	370nM
+HY-19348	class II HDACs	IC50	150nM
+HY-19348	HDAC1	Ki	14nM
+HY-19348	HDAC	Ki	15times
+HY-19348	Ki	IC50	5uM
+HY-19351	tankyrase	IC50s	6nM
+HY-19370	Ki	Ki	25nM
+HY-19522A	PPARγ receptors	EC50	2nM
+HY-19533	adenosine A2A receptor	IC50	15nM
+HY-19540	isocitrate dehydrogenase 1	IC50	8.8nM
+HY-19540	IDH1	IC50	15.2nM
+HY-19540	IDH1 mutants	IC50	16.6nM
+HY-19562	small - molecule	IC50s	3.7nM
+HY-19566	signal - regulating kinase 1	Ki	500nM
+HY-19566	ASK1	IC50	3uM
+HY-19568	JAK	IC50s	3.9nM
+HY-19568	JAK1	IC50s	5.0nM
+HY-19568	JAK2	IC50s	0.7nM
+HY-19568	JAK3	IC50s	4.8nM
+HY-19636	but is	IC50	70nM
+HY-19644	) the rat	IC50	27pM
+HY-19712	RSK	IC50	4nM
+HY-19712	RSK	IC50	13nM
+HY-19712	RSK	IC50	4nM
+HY-19713	RSK	IC50	6nM
+HY-19713	RSK3	IC50	4nM
+HY-19713	RSK	IC50	13nM
+HY-19713	S6K1	IC50	6,4,13nM
+HY-19713	HIP kinase	IC50	0.8uM
+HY-19725	BCL - XL	EC50	70nM
+HY-19732	AII	Ki	29nM
+HY-19732	7 nM	Ki	7nM
+HY-19732	subtype . BIBS	Ki	480nM
+HY-19732	AII concentration	Ki	110nM
+HY-19732	vivo	Ki	20nM
+HY-19733	0.54 nM	Ki	0.54nM
+HY-19733	,	Ki	32nM
+HY-19733	postsynaptic D2 receptors (	Ki	61nM
+HY-19733	=	IC50	0.54nM
+HY-19733	blocker (	Ki	52nM
+HY-19733	0.54	Ki	173nM
+HY-19736	S1P3 receptor	Ki	110nM
+HY-19736	Ki	IC50	110nM
+HY-19739	Wnt	IC50	420nM
+HY-19745	PD-1	IC50	18nM
+HY-19747	HDAC6	IC50	56nM
+HY-19747	in	IC50	30fold
+HY-19747	: on	IC	50vitro
+HY-19752A	M1 agonists that	EC50	477nM
+HY-19752A	appear	EC50	172nM
+HY-19752A	an allosteric site	EC50	6.37±
+HY-19752A	competition	EC50	0.15value
+HY-19752A	21.4 ( rM2	IC50	477nM
+HY-19795	p97	IC50	100nM
+HY-19797A	p97	IC50	100nM
+HY-19800	GTP - binding protein	EC50	77.6nM
+HY-19807	CDK1	IC50s	22nM
+HY-19807	cyclin B	IC50s	100nM
+HY-19816A	epidermal growth factor receptor	IC50	7.68nM
+HY-19834	noncovalent bruton 's tyrosine kinase	Ki	0.91nM
+HY-19912	VEGFR 1/2/3	IC50s	33nM
+HY-19928	ALK2	IC50	12.9nM
+HY-19952	capsid	IC50	50nM
+HY-19957	FGFR	IC50s	9.3nM
+HY-19957	FGFR1	IC50s	7.6nM
+HY-19957	FGFR3	IC50s	22nM
+HY-19958	XEN907 shows no	IC50	3nM
+HY-19991	PD - L1 protein	IC50	6nM
+HY-21098A	dopamine D4 receptor	Ki	9nM
+HY-30234A	H1 histamine receptor	EC50	8uM
+HY-32718	EKB-569;WAY - EKB	IC50	38.5nM
+HY-32718	EGFR	IC50s	282nM
+HY-32718	Src	IC50s	800nM
+HY-32718	MEK	IC50s	1255nM
+HY-32721	irreversible tyrosine kinase	IC50s	59nM
+HY-32721	HER2	IC50s	92nM
+HY-50081	C - C chemokine receptor type 2	IC50	103nM
+HY-50101A	CXCR4	IC50	13nM
+HY-50101A	CXCR4 125I	IC50	1nM
+HY-50108	FXR	EC50	65nM
+HY-50175	DP receptor	Ki	0.57nM
+HY-50175	Ki	Ki	2.95nM
+HY-50295	small - molecule	IC50	17nM
+HY-50667	Factor Xa	Ki	0.08nM
+HY-50667	Ki	Ki	0.17nM
+HY-50675	glucagon receptor	IC50	56nM
+HY-50675	human glucagon receptors	IC50	55nM
+HY-50683	-	IC50	4nM
+HY-50683	than	IC50	200tyrosine
+HY-50683	vitro	IC50	4nM
+HY-50683	more	IC50	1c-Met
+HY-50686	c - Met tyrosine kinase	Ki	355nM
+HY-50696	n Ki	Ki	90nM
+HY-50697	P2X7 receptor	IC50	18nM
+HY-50698	IFN - β	IC50s	0.83nM
+HY-50706	MEK	IC50	14nM
+HY-50710	mTOR	IC50s	10nM
+HY-50751	VEGF	IC50s	3nM
+HY-50751	PDGFR receptor	IC50s	4nM
+HY-50751	PDGFRβ	IC50s	66nM
+HY-50751	FLT3	IC50s	4nM
+HY-50752	Notch	IC50	0.078nM,0.082
+HY-50759	Ki app	Ki	1.7nM
+HY-50845	γ	IC50s	0.27nM
+HY-50855	casein kinase 2	Ki	0.38nM
+HY-50855B	CK2	IC50	1nM
+HY-50856	JAK3	IC50s	3.3nM
+HY-50858	JAK3	IC50s	3.3nM,2.8
+HY-50864	B - Raf	IC50	0.13nM
+HY-50876	nicotinamide phosphoribosyltransferase	IC50	0.09nM
+HY-50877	Polo - like kinase 1	Ki	2.2nM
+HY-50878	c - Met	IC50	11nM
+HY-50878	ALK	IC50	24nM
+HY-50878A	c - Met	IC50s	11nM
+HY-50878A	ALK	IC50s	24nM
+HY-50883	γ - secretase amyloid precursor protein	IC50	7nM
+HY-50896	EGFR kinase	IC50	2nM
+HY-50898	EGFR	IC50s	10.2nM
+HY-50898	ErbB2	IC50s	9.8nM
+HY-50898A	EGFR	IC50	10.2nM
+HY-50898A	ErbB2	IC50	9.8nM
+HY-50903	Factor Xa	IC50	0.7nM
+HY-50903	FXa	Ki	0.4nM
+HY-50905	tyrosine kinase FLT3	IC50s	1nM
+HY-50905	c - Kit	IC50s	2nM
+HY-50907	Bcl - xL,?Bcl-2?and?Bcl	EC50s	78.7nM
+HY-50912	CXCR4	IC50	44nM
+HY-50935	human	EC50s	550nM
+HY-50940	CDKs	IC50s	210nM
+HY-50940	CDK4	IC50s	47nM
+HY-50940	CDK6	IC50s	100nM
+HY-50940	CDK9	IC50s	13nM
+HY-50943	CDKs	IC50s	210nM
+HY-50943	CDK4	IC50s	47nM
+HY-50943	CDK6	IC50s	100nM
+HY-50943	CDK9	IC50s	13nM
+HY-51424	c - Raf-1(Y340D	IC50	13nM
+HY-59047	allosteric	EC50	63nM
+HY-70002	androgen receptor	IC50	36nM
+HY-70002A	androgen - receptor	IC50	36nM
+HY-70013	CYP17	IC50	2nM
+HY-70035	(	Ki	0.5nM
+HY-70035	: Factor	Ki	0.5nM
+HY-70057	MAO	IC50	98nM
+HY-70057	MAO	IC50	98nM
+HY-70057	MAO - B Safinamide	IC50	1highly
+HY-70059	glutamate receptor	IC50s	2.9nM
+HY-70061	I Aurora A	IC50	3.4nM
+HY-70063	NVP	IC50s	52nM
+HY-70068	Ki of	Ki	57nM
+HY-70068	and membrane	Ki	27nM
+HY-75800	polymerase	IC50	0.94uM
+HY-75800	I482L.	IC50	1.2uM
+HY-75800	the	EC50	22.3nM
+HY-75800	1b	EC50	11.2nM
+HY-76299	acetylcholinesterase	IC50	500nM
+HY-76612	with Ki	Ki	57nM
+HY-76612	cell and	Ki	27nM
+HY-76948	Factor Xa	IC50	0.7nM
+HY-76948	FXa	Ki	0.4nM
+HY-78349	TGF - β type I receptor superfamily activin - like kinase	IC50	25nM
+HY-A0005	ribonucleotide reductase	IC50	65nM
+HY-A0005	ribonucleotide reductase	IC50	65nM
+HY-A0007	dopamine receptor	Ki	0.71nM
+HY-A0007	5-HT1A receptor	Ki	83nM
+HY-A0009	nicotinic ACh receptors amyloid precursor protein	IC50	410nM
+HY-A0012	a selective M3	IC50	8.9pKi
+HY-A0012	antagonist with pKi	IC50	1receptor
+HY-A0013	endothelin-1	Ki	4.7nM
+HY-A0013	ETB receptors	Ki	95nM
+HY-A0013A	endothelin-1	Ki	4.7nM
+HY-A0013A	ETB receptors	Ki	95nM
+HY-A0024	pig bladder	IC50	14nM
+HY-A0024	effectively inhibited by	IC50	5.7values
+HY-A0024	range and	IC50	27370-485
+HY-A0036	estrogen receptor	IC50s	26nM
+HY-A0077	Alpha-1A adrenergic receptor	Ki	5.6nM
+HY-A0077	Dopamine receptor D2	Ki	10nM
+HY-A0077	D2L receptor	Ki	0.765,0.13nM
+HY-A0077	H1 receptor	Ki	3.4nM
+HY-A0077	Ki	Ki	8nM
+HY-B0020	70.1 ±	IC50	70.1nM
+HY-B0020	, MLA	IC50	0.9nM
+HY-B0022	mide : androgen	Ki	55nM
+HY-B0022	along	Ki	55nM
+HY-B0022	319 mg	Ki	1lutamide
+HY-B0068	cancer chemotherapy anti	IC50	0.33nM
+HY-B0068	emetic	Ki	2.9nM
+HY-B0068	Azasetron	IC50	4.4microM
+HY-B0072	930 is a	IC50	70.1nM
+HY-B0072	agonist with	IC50	0.9nM
+HY-B0072	of	IC50	70.1nM
+HY-B0072	]	IC50	0.9nM
+HY-B0072	:	IC50	15-HT3
+HY-B0138	COX	IC50s	20nM
+HY-B0138	COX-2	IC50s	120nM
+HY-B0144	- CoA HMG - CoA ) reductase	IC50	5.8nM
+HY-B0199	inosine monophosphate dehydrogenase	IC50s	39nM
+HY-B0202	1 ( AT1 ) receptor antagonist with	IC50	1.3nM
+HY-B0202	Irbesartan treatment	EC50	3.5uM
+HY-B0202	2 (	EC50	10uM
+HY-B0203A	accelerated	IC50	0.8nM
+HY-B0203A	Nebivolol	IC50	6.1uM
+HY-B0205	II	IC50	0.26nM
+HY-B0227	COX	IC50s	2nM
+HY-B0227	COX-2	IC50s	26nM
+HY-B0231	angiotensin - converting enzyme	IC50	1.94nM
+HY-B0274	histamine receptors , ,	Ki	18nM
+HY-B0274	,	Ki	2.96nM
+HY-B0274	,	Ki	4.56nM
+HY-B0274	,	Ki	9nM
+HY-B0274	nM	Ki	3.75nM
+HY-B0274	3	Ki	9.4nM
+HY-B0274	to as D1 ,	Ki	3nM
+HY-B0274	with	Ki	5.6nM
+HY-B0279	angiotensin - converting enzyme	IC50	5nM
+HY-B0286A	by 50%-70	IC50	12nM
+HY-B0286A	. Chlorpheniramine	IC50	66nM
+HY-B0286A	Oral	IC50	61.2uM
+HY-B0298A	histamine H1 receptor	IC50	3nM
+HY-B0309	IC50	IC50	1.45nM
+HY-B0310	receptor antagonist with	IC50	0.9nM
+HY-B0310	inhibits gastric	EC50	1.383umol
+HY-B0310	Nizatidine EC50	EC50	1also
+HY-B0310	1.383	IC50	6.7uM
+HY-B0310	with	Ki	7.4uM
+HY-B0362A	α - adrenoceptor	IC50	5nM
+HY-B0363	COX-2	IC50s	70nM-70
+HY-B0365A	NMDA receptors	Ki	0.51nM
+HY-B0365A	Ki	Ki	94.9uM
+HY-B0415	Receptor Fluocinolone	EC50	0.7nM
+HY-B0429	:	IC50	5.5nM
+HY-B0442A	PDE6 16	IC50	0.7nM
+HY-B0457	5-HT Receptor hydrochloride	Ki	0.14nM
+HY-B0457	hydrochloride salt	Ki	54nM
+HY-B0457	clomipramine	Ki	3nM
+HY-B0457	( SERT	Ki	0.14nM
+HY-B0457	,	Ki	54nM
+HY-B0457	dopamine transporter	Ki	3nM
+HY-B0457	DAT	Ki	162nM
+HY-B0457	0.14 ,	Ki	30nM
+HY-B0457	and	Ki	3.2nM
+HY-B0457	Clomipramine hydrochloride	Ki	525nM
+HY-B0457	Anafranil	Ki	31nM
+HY-B0457	. Clomipramine	Ki	37nM
+HY-B0457	(	Ki	36nM
+HY-B0457	- reuptake	Ki	65nM
+HY-B0457	and	Ki	85nM
+HY-B0457	Clomipramine hydrochloride	Ki	54nM
+HY-B0457	Anafranil	Ki	127nM
+HY-B0457	inverse agonist	Ki	2191-3
+HY-B0483	lone , acne preparation	Ki	91nM
+HY-B0500	5-HT1A receptor	IC50	101nM
+HY-B0539	Desloratadine	Ki	0.87nM
+HY-B0539	IL-4 and	Kd	1.1nM
+HY-B0553	carbonic anhydrase	Ki	50nM
+HY-B0553	Carbonic Anhydrase	Ki	14nM
+HY-B0553	carbonic anhydrase	Ki	36nM
+HY-B0573	β - adrenergic receptor	IC50	12nM
+HY-B0579	sporin cyclophilin	IC50	5nM
+HY-B0602	nlafaxine is serotonin (	Ki	40.2nM
+HY-B0640	stine(WAL801 ) is an and	Ki	1.1nM
+HY-B0735A	maximum	EC50	55.5nM
+HY-B0735A	obtained by fenoldopam the maximum	EC50	7.75nM
+HY-B0735A	35.6 + /-	EC50	1.65microM
+HY-B0760	PPAR activitor	EC50s	22.4uM
+HY-B0760	COX-2	EC50s	1.47uM
+HY-B0782	carbonic anhydrase	IC50	30nM
+HY-B0788	IκB kinase β	IC50	30nM
+HY-B0789	Src family kinases	IC50s	280nM
+HY-B0789	Src	IC50s	20nM
+HY-B0789	Lyn	IC50s	130nM
+HY-B0789	Fyn	IC50s	170nM
+HY-B0791	multi	IC50s	2.7nM
+HY-B0791	targeted kinase FLT3	IC50s	8nM
+HY-B0792	of LRRK2	IC50s	1.28nM
+HY-B0793	EGFR	IC50s	1nM
+HY-B0793	T790 M	IC50s	6nM
+HY-B0793	EGFR	IC50s	1nM
+HY-B0793	ErbB4	IC50s	25nM
+HY-B1102	acid transporter kainate receptor	IC50	220nM
+HY-B1102	serum albumin	IC50	150nM
+HY-B1208	nAChR	IC50	10nM
+HY-B1208	Ki	IC50	10,000nM
+HY-B1208	Target nAChR	Ki	10nM
+HY-B1208	mAChR	Ki	10,000nM
+HY-B1480	carbonic anhydrase	Ki	1nM
+HY-B1490	serotonin transporter	IC50	32nM
+HY-B1541	5-HT3 receptor	IC50	0.33nM
+HY-B1902	dihydrofolate reductase	Ki	11.5nM
+HY-B2137	COX-2	IC50s	1.9nM
+HY-B2244	acetyl	IC50s	31nM
+HY-B2244	AChE	IC50s	25.6nM
+HY-I0383	subtype 2 sodium - glucose transport protein	IC50	2.2nM
+HY-I0678	oxyde RET	IC50s	13,4.2,46nM
+HY-I0678	Raf-1	IC50s	22nM
+HY-N0014	PPARα activator	IC50s	432nM
+HY-N0018	anti -	IC50	80nM
+HY-N0096	dopamine D1	IC50s	166nM
+HY-N0096	D2 and D3 receptors	IC50s	1.4uM
+HY-N0096	5-HT1A	IC50s	3.3uM
+HY-N0102	anti - tumor	IC50	320nM
+HY-N0215	- Phenylalanine one of	Ki	980nM
+HY-N0215	amino acids used	IC50	980nM
+HY-N0233	estrogen receptors ERα	EC50s	320nM
+HY-N0296A	muscarinic	IC50	2.09uM
+HY-N0340	of	IC50	55.3nM
+HY-N0340	muscarinic Target	IC50	4.3nM
+HY-N0393	anti - bacterial	EC50	6115nM
+HY-N1374	lin Shin - Yi	IC50s	87nM
+HY-N1374	Ras	IC50s	16.5nM
+HY-N1584	prolyl - tRNA synthetase	Ki	18.3nM
+HY-N1584	Ki	Ki	2attenuates
+HY-N1584A	prolyl - tRNA synthetase	Ki	18.3nM
+HY-N1584A	Ki	Ki	2attenuates
+HY-N1937	reversible monoacylglycerol lipase	IC50	93nM
+HY-N2148	porone B Csn - B;Dothiorelone G	EC50	0.278nM
+HY-P0018A	hemoglobin	IC50s	4.5nM
+HY-P0018A	pepsin	IC50s	6.2nM
+HY-P0018A	hemoglobin	IC50s	150nM
+HY-P0018A	casein	IC50s	290nM
+HY-P0018A	pepsin	IC50s	520nM
+HY-P0018A	casein - proctase	IC50s	260nM
+HY-P0023	αvβ3 integrin	IC50	0.94nM
+HY-P0185	μ - opioid receptor	Ki	20nM
+HY-P0185	kappa3 binding sites	Ki	30nM
+HY-U00426	phosphatidylinositol 4-kinase III beta	IC50	5.7nM
+HY-U00433A	hormone secretagogue receptor 1a GHS - R1a	IC50	32±3nM
+HY-100867A	spleen tyrosine kinase	IC50	3.2nM
+HY-101801	Ki	Ki	23nM
+HY-101979A	recombinant human arginase 1	IC50s	86nM
+HY-10219	AY 22989	IC50	0.1nM
+HY-103714A	ALK	IC50s	0.4nM
+HY-103714A	MET	IC50s	0.74nM
+HY-104065	EGFR	IC50s	13nM
+HY-104065	HER2	IC50s	38nM
+HY-10432	TGF - β type I receptor ALK5 kinase	IC50s	12nM
+HY-10432	type	IC50s	45nM
+HY-10432	activin I nodal receptor ALK7 ALK7	IC50s	7.5nM
+HY-10889	human adenosine A2A receptor	Ki	1.1nM
+HY-12012	GSK-3	IC50s	34.3nM
+HY-12030	0 PI3 K	IC50s	11nM
+HY-12071	BMP	IC50s	0.8nM
+HY-12071	ALK2	IC50s	0.8nM
+HY-12201	aurora A	IC50s	21nM
+HY-12286	0.14	IC50	27nM
+HY-12286	:	IC50	0.14nM
+HY-12286	constitutive	IC50	100uM
+HY-12286	over	IC50	27nM
+HY-12286	immunoproteasome	IC50	1inhibitor
+HY-12296	MDM2	IC50	0.6nM
+HY-12382	MPS1	IC50	182nM
+HY-12432A	FLT3	IC50	0.29nM,0.73
+HY-12484	molecule RNA polymerase I	IC50	1vitro
+HY-12857	ALK	IC50	0.6nM
+HY-13259	2 20S proteasome	IC50	24.2nM
+HY-13274	opioid receptor - like1	Ki	8.2nM
+HY-13323	RNA polymerase I	IC50s	142nM
+HY-13443	acid peptide glucagon - like peptide-1 receptor	IC50	3.22nM
+HY-13443A	acid peptide glucagon - like peptide-1 receptor	IC50	3.22nM
+HY-13808	tox	IC50	4nM
+HY-13808	tox	IC50	4nM
+HY-13912	Wnt	IC50	27nM
+HY-14894	of	IC50	2.8nM
+HY-15498	calcitonin gene - related peptide	Ki	0.027nM
+HY-15772A	EGFR	IC50s	12nM
+HY-15772A	T790 M	IC50s	1nM
+HY-15825	0.5	EC50	0.5nM
+HY-15825	vitro	EC50	1effectively
+HY-15889	FLT3	IC50s	2±1nM
+HY-15889	CDK4	IC50s	3±1nM
+HY-15989	XIAP protein	IC50	1.39nM
+HY-16297A	CDK4	IC50	2nM
+HY-16297A	CDK6	IC50	10nM
+HY-17024	Hedgehog	IC50	46nM
+HY-17034	Ki	Ki	1.08nM
+HY-18595	HIV-1 noncatalytic site integrase	EC50	15nM
+HY-32351A	Ki	Ki	3.9uM
+HY-50671	P - glycoprotein	Ki	59nM
+HY-50673	I PI3 K mTOR kinase	IC50s	4nM,5
+HY-50673	mTOR	IC50s	20.7nM
+HY-50767	PD	IC50s	11nM
+HY-50767	CDK4	IC50s	16nM
+HY-50908	mTOR	IC50	0.2nM
+HY-79077	EGFR	IC50s	12nM
+HY-79077	T790 M	IC50s	1nM
+HY-80003	BTK kinase	IC50	7nM
+HY-80003	Btk	IC50	7nM
+HY-80003	BTK kinase	EC50	475nM
+HY-80003	BTK	EC50	318nM
+HY-B0032	dopamine D2	IC50s	1.68nM
+HY-B0032	5-HT1A receptor	IC50s	0.495nM
+HY-B0032A	dopamine D2	IC50s	1.68nM
+HY-B0032A	5-HT1A receptor	IC50s	0.495nM
+HY-B0183	CK2	IC50	40nM
+HY-B0183	Ki	Ki	20nM
+HY-B0366A	histamine receptor	IC50	0.6nM
+HY-N0488	Ki	Ki	85nM
+HY-P0009A	gonadotropin - releasing hormone ( GnRH ) receptor	IC50	1.21nM
+HY-P0018B	hemoglobin	IC50s	4.5nM
+HY-P0018B	pepsin	IC50s	6.2nM
+HY-P0018B	hemoglobin	IC50s	150nM
+HY-P0018B	casein	IC50s	290nM
+HY-P0018B	pepsin	IC50s	520nM
+HY-P0018B	casein - proctase	IC50s	260nM
+HY-P0117	peptide density-95	EC50	6.7nM
+HY-P0220A	PACAP receptor	IC50s	30nM
+HY-P0220A	PACAP type I receptor	IC50s	600nM
+HY-P0220A	PACAP type II receptor VIP1	IC50s	40nM
+HY-P0227	human melanocortin 3 and 4 receptors	IC50	0.23nM
+HY-P1029	myosin light chain kinase	IC50	50nM
+HY-P1030	neurokinin-1 receptor	Ki	0.175nM
+HY-P1030	Ki	Ki	560nM
+HY-P1037	motilin receptor ligand	EC50	2.3nM
+HY-P1037	Ki	EC50	0.3nM
+HY-P1087	μ - opioid receptor	Ki	12nM
+HY-P1548A	RP human	IC50s	1nM
+HY-P1548A	calcitonin peptides	IC50s	300nM
+HY-100013A1	GPR88 receptor	EC50	3nM
+HY-10011	CXCR2	IC50s	1.3nM
+HY-100115	2 p38 MAPK	IC50	20nM
+HY-100115	p38	IC50	20nM
+HY-100130	adenosine receptor	Ki	29nM
+HY-100130	Ki	IC50	29.0nM
+HY-100130	Ki	IC50	1.7nM
+HY-100201	H2 histone methyltransferases	IC50	25nM
+HY-100315	sine kinase tyrosine kinase FGFR1	IC50s	4nM
+HY-100342	tinib - biotin biotin	IC50	0.755-1.02nM
+HY-100368A	embryonic leucine zipper kinase MELK	IC50	2nM
+HY-100388	SHP2	IC50	70nM
+HY-100388A	SHP2	IC50	70nM
+HY-100402	showing that	IC50	2.6selectivity
+HY-100419	VEGFR2 kinase	IC50	3nM
+HY-100423A	CRM1	IC50s	100nM-50
+HY-100441	DP1	EC50	0.6±0.1nM
+HY-100443B	FXR	EC50s	18nM
+HY-100443B	FXR	EC50s	29nM
+HY-100459	RET kinase	IC50	0.4nM
+HY-100462	B - IN-2 protein tyrosine phosphatase 1B	IC50	50nM
+HY-100470	PI3 K	IC50	2nM
+HY-100506	integrin receptor	IC50	1.3nM
+HY-100626	pan - WNK - kinase WNK 2	IC50s	5nM
+HY-100626	WNK	IC50s	1nM
+HY-100681	lactate dehydrogenase A	IC50s	1.9nM
+HY-100684	fibroblast activation protein	IC50	3.2nM
+HY-100684	prolyl oligopeptidase	IC50	1.8uM
+HY-100740	Ki	Ki	0.4nM
+HY-100742A	lactate dehydrogenase A	IC50s	3nM
+HY-100844	signal - regulating kinase 1	IC50	2.87±0.85nM
+HY-10095	calcitonin gene - related peptide 1	IC50	0.03nM
+HY-10095	CGRP1	Ki	14.4pM
+HY-10095A	calcitonin gene - related peptide 1	IC50	0.03nM
+HY-10095A	CGRP1	Ki	14.4pM
+HY-101026	heat shock transcription factor 1	IC50	19nM
+HY-101146	PI3 K	IC50s	34nM
+HY-101146	PK mTOR	IC50s	158nM
+HY-101189	histamine H4 receptor	Ki	12.5nM
+HY-101267	type II irreversible BMX kinase	IC50	11nM
+HY-101284	CYP1A1	IC50s	10nM
+HY-101386	μ opioid receptor	EC50	1.8nM
+HY-101467A	CDK4	IC50s	1nM
+HY-101467A	CDK6	IC50s	4nM
+HY-101490	WO2016/55618 A1	IC50	6nM
+HY-101494	ERK1	IC50	5nM
+HY-101507	TRPC1/4/5 channels	IC50s	0.349nM
+HY-101564	pseudo - irreversible PRMT5	IC50	0.14nM
+HY-101565	bioavailable MCL-1 Ki	Ki	0.13nM
+HY-101569	protein kinase C PKC	IC50	1.9nM
+HY-101640	Ki	Ki	0.19-0.41nM
+HY-101718	centrally	Ki	0.807nM
+HY-101760	RIP1	IC50	16nM
+HY-101768	FGFR1 - 4	IC50	0.6nM
+HY-101780	HDAC	IC50	9nM
+HY-101780	HDAC1	IC50	9nM
+HY-101784	Anti	IC50	70nM
+HY-101793	Bruton ’s tyrosine kinase	IC50	3nM
+HY-101805	sphingosine kinase 1	IC50	58nM
+HY-101842	acetyl - CoA carboxylase	IC50s	3.5nM
+HY-101842	ACC	IC50s	4.1nM
+HY-101845	Ki	Ki	2.5nM
+HY-10185	multi	IC50s	2nM
+HY-10185	targeted kinase receptor tyrosine kinases	IC50s	7nM
+HY-10185	Src kinases	IC50s	2nM
+HY-10185	FGFR1	IC50s	16nM
+HY-10185	Fyn	IC50s	13nM
+HY-10185	Lck	IC50s	5nM
+HY-10185	Lyn	IC50s	0.5nM
+HY-10185	Src	IC50s	6nM
+HY-101856	Bruton 's tyrosine kinase	IC50	0.5nM
+HY-101857	monoacylglycerol acyltransferase	IC50	7.8nM
+HY-101870B	WO 2017044730 A1	IC50	35nM
+HY-101922	interleukin-1 receptor associated kinase 4	IC50	7nM
+HY-101977	TRK kinase	IC50s	0.6nM
+HY-102011	PD - L1	IC50	1.4nM
+HY-102031	δ WO 2015055071 A1	IC50	6.4nM
+HY-102033	HDAC	IC50	15.7nM
+HY-102060	histone acetyltransferases	IC50	55nM
+HY-102080	FK506-binding protein	Ki	6nM
+HY-10210	Hsp90	EC50s	119nM
+HY-10230	multi	IC50	16-500nM
+HY-103002	VEGFR2 kinase	IC50	70nM
+HY-103040	GABAA receptor	EC50s	296nM
+HY-103040	α4β3δ GABAA receptors	EC50s	163nM
+HY-103082	Cdc2-like kinase 1	IC50	2nM
+HY-103085	specific histone demethylase LSD1	IC50	2.1nM
+HY-10319	ROCK	IC50s	0.6nM
+HY-10319	human ROCK-1	IC50s	1.1nM
+HY-10333	EGFR	IC50s	5nM
+HY-10333	EGFR	IC50s	20nM
+HY-10333	HER 2	IC50s	60nM
+HY-103350	cathepsin B	Ki	2nM
+HY-103350	Ki of 2	Ki	5nM
+HY-10346	2 EGFR	IC50s	0.75nM
+HY-10346	EGFR	IC50s	0.5nM
+HY-10346	EGFRT790 M	IC50s	0.79nM
+HY-10346	EGFRL858R	IC50s	2.3nM
+HY-10346	T790 M	IC50s	19nM
+HY-10346A	EGFR	IC50s	0.75nM
+HY-10346A	EGFR	IC50s	0.5nM
+HY-10346A	EGFRT790 M	IC50s	0.79nM
+HY-10346A	EGFRL858R	IC50s	2.3nM
+HY-10346A	T790 M	IC50s	19nM
+HY-103482	MMP-9 zymogen	IC50	440nM
+HY-103490	TAK1	IC50	9.5nM
+HY-103704	FXR	EC50	193nM
+HY-104009A	Ki	Ki	14nM
+HY-104010	allosteric Bcr - Abl	IC50	0.25nM
+HY-104065B	EGFR	IC50	13nM
+HY-104065B	HER2	IC50	38nM
+HY-10408	selective c -	IC50	2nM
+HY-10408	2 nM ; 6 fold	IC50	6fold
+HY-10408	VEGFR2(IC50=12 nM )	IC50	100fold
+HY-10411	JAK2 kinase	Ki	0.45nM
+HY-10483	aurora A	IC50s	4nM
+HY-10502A	farnib S Tipifarnib S	IC50	0.6nM
+HY-10530	small molecule pan - EGFR	IC50s	7nM
+HY-10530	HER2	IC50s	2nM
+HY-10559	5-HT2C	IC50s	1.7nM
+HY-10560	5-HT2A receptor	Ki	4.9nM
+HY-10644	nhibitor 2 tyrosine kinases	IC50	13nMrespectively
+HY-10644	BTK	IC50	9nMrespectively
+HY-10644	Lck	IC50	3nMrespectively
+HY-10644	Btk	IC50	26nMrespectively
+HY-10644	Lyn	IC50	2nMrespectively
+HY-10644	Btk	Kd	16kinases
+HY-10644	Src family kinase Lck	Kd	100nM
+HY-107139	melanocortin receptor 1	IC50	270nM
+HY-107139	MC1R	IC50	200nM
+HY-107216	Ki	Ki	11nM
+HY-107414	KCa3.1 activator	EC50s	109nM
+HY-107414	109	EC50s	4.4uM
+HY-107418	FXR	EC50	0.2nM
+HY-107429	JAK1	IC50s	29nM
+HY-107429	JAK1	IC50s	803nM
+HY-107429	JAK2	IC50	1.253uM
+HY-107455	p300	IC50s	9.8nM
+HY-107455	CBP	IC50s	2.6nM
+HY-107709	acetyl - CoA carboxylase	IC50	3nM
+HY-10794	novel and selective E prostanoid receptor 4	Ki	0.7nM
+HY-10794	affinity for	Ki	0.7nM
+HY-10794	EP4	IC50	1.7nM
+HY-10794	of	IC50	17nM
+HY-10794	0.7 nM Target selectivity over	IC50	10serum
+HY-107988	AMP - activated protein kinase	EC50	8nM
+HY-10811	mTOR	IC50s	3.4nM
+HY-10811	mTOR	IC50s	12nM
+HY-108318	Lck	IC50s	1nM
+HY-108318	Lck	IC50s	2nM
+HY-108339	monoacylglycerol acyltransferase 3	IC50	92nM
+HY-108435	CBP	IC50	1.1nM
+HY-108435	TR	IC50s	12nM
+HY-108677	non	IC50s	8.9nM
+HY-108677	peptide oxytocin receptor	IC50s	26nM
+HY-108699	G	EC50s	9nM,5
+HY-10873	Ki	Ki	2nM
+HY-10873	VEGFR -1 , -2	Ki	9nM
+HY-108741A	guanylate cyclase - C	EC50	190nM
+HY-108900	leucyl - tRNA synthetase	IC50	22.34nM
+HY-109053	JAK	IC50s	2.8nM
+HY-109053	JAK1	IC50s	2.6nM
+HY-109053	JAK2	IC50s	13nM
+HY-109053	JAK3	IC50s	58nM
+HY-109068	PI3Kδ	IC50	1nM
+HY-109078	BTK ITK	Kd	0.3nM
+HY-109095	orexin receptor	IC50s	2nM
+HY-109095	Ox1 receptor	IC50s	3nM
+HY-11010	JNK	IC50s	150nM
+HY-11010	JNK human isoforms	IC50s	220nM
+HY-11011	Src - family Lck	IC50	147nM
+HY-11087	p38 MAP kinase	IC50	170nM
+HY-111099	CFTR	EC50s	3nM
+HY-111099	CFTR	EC50s	339nM
+HY-111101	Interleukin-1 receptor associated kinase 4	IC50	5nM
+HY-111108	human lactate dehydrogenase	IC50s	32nM
+HY-111108	LDH	IC50s	27nM
+HY-111139	CBP	IC50s	30nM
+HY-111200	5-HT2C	EC50	8nM
+HY-111271	Ki	Ki	0.8±0.4nM
+HY-111350	ubiquitin - specific protease 7	IC50	52nM
+HY-111361	FLT3	IC50s	2.47nM
+HY-111361	CDK	IC50s	0.85nM
+HY-111361	CDK2	IC50s	1.96nM
+HY-111361	cyclin A CDK4	IC50s	0.28nM
+HY-111365	human α - amino - β - carboxymuconate - ε - semialdehyde decarboxylase	IC50	13±3nM
+HY-111443	thyroid hormone receptor	IC50s	36nM
+HY-111443	TR	IC50s	22nM
+HY-111453	glucocorticoid receptor	IC50	0.9nM
+HY-111454	mu - opioid - receptor	EC50	97nM
+HY-111458	USP20	IC50	160nM
+HY-111483	ERK2	IC50	0.6nM
+HY-111486	estrogen receptor	IC50	0.2nM
+HY-111510	PI3 K p110δ	IC50	2.5nM
+HY-111767	A2B adenosine receptor	IC50	59nM
+HY-111767	rat A2B adenosine receptor	IC50s	66nM
+HY-111767	Ki	IC50s	400nM
+HY-111767	human A2B adenosine receptor	IC50s	280nM
+HY-111767	A1	Ki	97nM
+HY-112066	human serine hydroxymethyltransferse 1 and 2	IC50s	5nM
+HY-112088	CDK9	IC50	3nM
+HY-112094	Lysine	IC50	4nM
+HY-112140	ALK	IC50	2nM
+HY-112157	penetrant β - site amyloid precursor protein	IC50	7.3nM
+HY-112162	monopolar spindle 1	IC50	2nM
+HY-112166	BTK	IC50	1.3nM
+HY-112272A	G1 T38	IC50s	1nM
+HY-112272A	CDK4	IC50s	2nM
+HY-112301	RET	IC50	0.4nM
+HY-112427	sirtuin 2	IC50	163nM
+HY-112433	NF - κB	IC50	0.23±0.17nM
+HY-112619	human α?Amino - β - carboxymuconate - ε - semialdehyde Decarboxylase	IC50	3nM
+HY-112654	serine / threonine - protein kinase	IC50	2.4nM
+HY-112681	PKC - θinhibitor	IC50	12nM
+HY-112701	CCR6 inhibitor 1 markedly	IC50s	0.45nM
+HY-112701	ERK	IC50s	6nM
+HY-112701	CCR6	IC50	30000nM
+HY-112734	Cytochrome P450	IC50	19nM
+HY-112778	IL-2	IC50	182nM
+HY-112831	PDE9A	IC50	52nM
+HY-112831	PDE3A	IC50	1.4uM
+HY-112831	PDE5A	IC50	1.0uM
+HY-112895	androgen receptor	Ki	267nM
+HY-113854	glucocorticoid receptor	IC50s	2.2nM
+HY-113854	GR	IC50s	0.3nM
+HY-113854	GR	IC50s	41.6nM
+HY-114141	chemoattractant receptor - homologous	IC50	4.5nM
+HY-114177	cyclin - dependent kinase	Ki	0.09nM
+HY-114177	CDK	Ki	0.13nM
+HY-114177	Ki	Ki	0.16nM
+HY-114228	AC BET degrader-2 Extra - Terminal	IC50	9.6nM
+HY-114258	Aurora - A kinase	Ki	0.8nM
+HY-114258	Ki	Ki	1038nM
+HY-114263	PPAR - α	IC50	77nM
+HY-114263	PPARα nuclear hormone receptor	IC50s	6.0uM
+HY-114263	GR	IC50s	15uM
+HY-114330A	urokinase plasminogen activator	IC50s	79nM
+HY-114330A	uPA	IC50s	1580nM
+HY-114330A	uPA	IC50s	1330nM
+HY-114331	leucine zipper kinase	Ki	3nM
+HY-114739	peroxisome proliferator activated receptor δ	EC50s	0.4nM
+HY-116009	SHP2	IC50	0.583nM
+HY-117410	prostate - specific membrane antigen	Ki	0.37nM
+HY-117771	lipase	IC50	6nM
+HY-119940	CDK9-Cyclin T1	IC50	5nM
+HY-120012	glucocorticoid receptor	IC50	3.8nM
+HY-120856	salt	IC50s	1nM
+HY-12169	MMP-2	IC50	3nM
+HY-12214A	2 CDK9	IC50	0.5nM
+HY-12293	ATP kinase	IC50	11nM
+HY-12293	CDK9	IC50	16nM
+HY-12297	tyrosine kinase	IC50s	1nM
+HY-12297	FGFR1	IC50s	24nM
+HY-12305	caspases	IC50	48nM
+HY-12305	caspase 1	IC50	1Q-VD-OPha
+HY-12305	Q - VD - OPha	IC50	3Q-VD-OPha
+HY-12333	is	IC50s	0.4,0.6,3.5,7.5nM
+HY-12333	respectively ] Target :	IC50	0.4,0.6,3.5,7.5nM
+HY-12336	2 GPR183	IC50	16nM
+HY-12345	potassium channels , Kir2.1	IC50	4nM
+HY-12345	member	IC50	16nM
+HY-12359	- derived protein kinase C PKC	Ki	11.9nM
+HY-12405	from the	Kd	125Iselective
+HY-12411	glucokinase - glucokinase regulatory protein	IC50	4nM
+HY-12420	MELK	IC50	23nM
+HY-12423A	VEGFRand hepatocyte growth factor receptor	IC50s	30nM
+HY-12423A	c - Met	IC50s	32nM
+HY-12425	human DGAT1	IC50	10nM
+HY-12429	thumb site	IC50	28nM
+HY-12434	farnesoid X receptor	EC50s	30nM
+HY-12437	ROCK and MRCK	IC50s	5nM
+HY-12445	a potent CDK9	Ki	4nM
+HY-12445	shows selective	IC50	4nM,80
+HY-12488	CXCR4	IC50	0.079nM
+HY-12492	pyruvate dehydrogenase kinase	IC50s	35nM
+HY-12510	mGlu5 receptor	IC50	1nM
+HY-12510	mGlu5 receptor	IC50	1nM
+HY-12510	methoxy - PEPy	IC50	1inhibitor
+HY-12528	bioavailable DPP4	IC50	15nM
+HY-12528	DPP IV	IC50	15nM
+HY-12528	DPP - II	IC50	1inhibitor
+HY-12594	3/4A NS3/4A	EC50s	1nM
+HY-12648A	fatty acid synthase	IC50	10nM
+HY-12680	T cell kinase	IC50s	0.3nM
+HY-12680	lymphocyte kinase	IC50s	1.4nM
+HY-12761	high potencies at CB(2	IC50	1.6nM
+HY-12764	in 35S]GTPγS	EC50	105nM
+HY-12764	of	IC50	105nM
+HY-12828	CDC2-like kinase isoforms 1	IC50	20nM
+HY-12828	TNF - α	IC50	20nM
+HY-12839	p38	IC50	68nM
+HY-12864	estrogen receptor degrader	IC50	0.7nM
+HY-12867	Ki	Ki	50nM
+HY-12871	P - TEFb	IC50	13nM
+HY-12871B	PTEFb	IC50	13nM
+HY-12871C	eciclib S - Enantiomer BAY-1143572 S - Enantiomer	IC50	16nM
+HY-12879	Wnt	IC50	25nM
+HY-12883	WO/2010/079443 A1	IC50	8.6nM
+HY-12947	leucine zipper kinase	Ki	0.5nM
+HY-12960	a	IC50	10nM
+HY-12971	NAMPT	IC50	3.1nM
+HY-13033	CDK9	IC50	8nM
+HY-13033	CDK9	IC50	1example
+HY-13057	MGMT	IC50s	32nM
+HY-13057	O6-methylguanine - DNAmethyl - transferase	IC50s	10nM
+HY-13233B	peptidase IV DPP - IV	Ki	0.18nM
+HY-13250	myc - LUC	EC50s	10nM
+HY-13250	tub - LUC luciferase reporter protein	EC50s	200nM
+HY-13254A	Ki	Ki	11nM
+HY-13299	is a novel	Kd	10.4nM
+HY-13299	nM ( Wt	IC50s	0.6nM
+HY-13299	/ Ron in	IC50s	1nM
+HY-13314	tyrosine kinase	IC50s	0.3nM
+HY-13314	EGFR	IC50s	16nM
+HY-13314	ErbB2	IC50s	1.5nM
+HY-13314	Flt4	IC50s	8.7nM
+HY-13314	EphB4 kinase	IC50s	1.4nM
+HY-13427	a novel	IC50	0.5nM
+HY-13427	3	IC50	3nM
+HY-13427	more	IC50	0.5,3nM
+HY-13427	to ErbB2-overexpressing cells	IC50	500pMpM
+HY-13427	3000-fold	IC50	800pM
+HY-13428	HDAC1	IC50	4nM
+HY-13560	a selective	Ki	1strikingly
+HY-13564	MMP-2	IC50	3nM
+HY-13564	MMP-3	IC50	4nM
+HY-13775	Targets for	IC50	2.2nM
+HY-13806	mTOR	IC50	9.9nM
+HY-13862	GSK3	IC50	8.2nM
+HY-13862	recombinant human GSK3α	IC50	6.9nM
+HY-13867	dolylmaleimide I reversible protein kinase C	Ki	14nM
+HY-14127	small - molecule CRF1 receptor	Ki	2nM
+HY-14127	Ki of 2	Ki	5nM
+HY-14176	γ - secretase	E	40β-amyloid
+HY-14176	bloks β - amyloid(40 β	E	42γ-secretase
+HY-14176	amyloid(42 Notch	IC50s	0.24nM
+HY-14181A	guanylate cyclase	EC50	15nM
+HY-14305A	inhibit cytochrome	IC50	13nM
+HY-14305A	1A2 ,	IC50	13nM
+HY-14305A	, 2C19 ,	IC50	1p38α
+HY-14305A	2D6 with IC50values	IC50	18uM
+HY-14305A	weak 18 to	IC50	40uM
+HY-14338A	Lu AE58054 Hydrochloride	Ki	0.83nM
+HY-14342	46 is 25 nM [ 1	Ki	1.6nM
+HY-14434	hepatitis C virus ( HCV ) NS3 protease	IC50	0.2nM-3.5
+HY-14435	JAK	IC50s	1nM
+HY-14533	destabilizes AβO	EC50	80nM
+HY-14533	β - amyloid	IC50	80nM
+HY-14533	Amyloid - β	EC50	0.080uM
+HY-14622A	ostatin 2 TNF - alpha Necrostatin 2	EC50	50nM
+HY-14622A	TNF -	EC50	1potent
+HY-14622B	ostatin 2 TNF - alpha Necrostatin 2	EC50	50nM
+HY-14622B	TNF -	EC50	1potent
+HY-14719	MEK	IC50	5.2nM
+HY-14839	EP2 receptor	EC50	0.3nM
+HY-14875	corticotropin - releasing factor receptor 1	IC50s	1000nM
+HY-14875	CRF1	IC50s	1000nM
+HY-14885	glucocerebroside synthase	IC50	24nM
+HY-14885A	glucocerebroside synthase	IC50	24nM
+HY-15043	inhibits the binding	Ki	0.26nM
+HY-15141	protein kinases	IC50s	6nM
+HY-15141	PKC	IC50s	15nM
+HY-15141	PKA	IC50s	2nM
+HY-15141	c - Fgr	IC50s	3nM
+HY-15149	HDAC1	IC50s	36nM
+HY-15257	mGlu5 receptor	IC50	30nM
+HY-15260A	Cdc7	IC50	3.4nM
+HY-15260A	CK2	IC50s	215nM
+HY-15272	mTOR	IC50	9nM
+HY-15319	chemokine receptor 3	IC50s	8.0nM
+HY-15320	Ki	Ki	1.5nM
+HY-15391	FGFR	IC50s	7nM
+HY-15391	FGFR1	IC50s	25nM
+HY-15403A	endothelin receptor	IC50	0.0551nM
+HY-15426	PDE8	IC50s	0.7nM
+HY-15427	BTK	IC50	5.9nM
+HY-15427	BTK	IC50	6.4nM
+HY-15427A	nM/6.4 and	IC50s	5.9nM
+HY-15433	HDAC	IC50	0.11nM
+HY-15434	TAK1	IC50s	149nM
+HY-15434	MAP4K2	IC50s	21.7nM
+HY-15452A	sistat S - enantiomer EX-527 S - enantiomer	IC50	123nM
+HY-15460	LpxC deacetylase	Ki	4.0nM
+HY-15465	calmodulin - dependent kinase type II Ki	Ki	370nM
+HY-15465A	inhibitor calmodulin - dependent kinase type II	Ki	370nM
+HY-15465B	neuronal CaMK - II	Ki	370nM
+HY-15497	postprandial	IC50	80nM
+HY-15504A	CDK	IC50s	1nM
+HY-15504A	cyclin T1-CDK9	IC50s	2nM
+HY-15504A	cyclin B1-CDK1	IC50s	3nM
+HY-15504A	cyclin E - CDK2	IC50s	4nM
+HY-15504A	cyclin D1-CDK4	IC50s	5nM
+HY-15504A	cyclin E - CDK3	IC50s	5nM
+HY-15504A	TAK1	IC50s	3nM
+HY-15504A	Jak2	IC50s	5nM
+HY-15504A	MEK1	IC50s	50nM
+HY-15506	PDGFR	IC50s	3.2nM
+HY-15515	Na+-Ca2 + exchanger	IC50s	5nM
+HY-15517A	2 Ca2+/calmodulin - dependent kinase II	Ki	370nM
+HY-15517B	2 Ca2+/calmodulin - dependent kinase II	Ki	370nM
+HY-15532	Chk1	IC50	3nM
+HY-15532B	Chk1	IC50	3nM
+HY-15533	Cathepsin S	IC50s	7.7nM
+HY-15533	Cat S	IC50s	1.67nM
+HY-15536	opioid receptor	EC50s	0.9nM,13
+HY-15536	human NOP	EC50s	0.7nM,1.2
+HY-15536	KOP	EC50s	2.6nM,17
+HY-15536	delta - opioid peptide DOP	EC50s	18nM,110
+HY-15555	Ki	Ki	24nM
+HY-15590	Trk kinase A B	IC50s	2nM
+HY-15591A	RdRp	IC50	34nM
+HY-15591A	HCV NS5B RNA - dependent RNA polymerase	IC50	34nM
+HY-15591A	1a	IC50	1novel
+HY-15594A	G4	IC50s	65±6nM
+HY-15594A	DinG helicases	IC50s	50±10nM
+HY-15595A	telomerase	IC50	300nM
+HY-15600	totally , but	IC50	1uM
+HY-15600	compound was	IC50	81±
+HY-15607A	Bcl - XL	IC50	1.1nM
+HY-15617	JNK	IC50	1.5nM
+HY-15617	JNK1	IC50	2nM
+HY-15617	JNK2	IC50	0.7nM
+HY-15685	ROCK	IC50s	19nM
+HY-15697	GPR40 in vitro	EC50	6nM
+HY-15697	TUG-770 ( Compound	EC50	1excellent
+HY-15709	glucocorticoid receptor	Ki	210nM
+HY-15720A	ROCK	Ki	1.6nM
+HY-15720A	Ki	IC50	12nM
+HY-15737	JNK1	IC50	9nM
+HY-15748	Glutamate 2 receptor	EC50	147nM
+HY-15769	multi - kinase	IC50s	5nM
+HY-15769	RET	IC50s	66nM
+HY-15769	KDR	IC50s	4uM
+HY-15770	integrin	IC	50values
+HY-15770	integrin	IC	0.75nM
+HY-15770	human alpha(4)beta(7	IC	50values
+HY-15770	125)I - MAdCAM - Ig fusion protein	IC	0.1microM
+HY-15770	MAdCAM - Ig	IC	2adhesion
+HY-15775	ase human arginases I	IC50s	223nM
+HY-15776	salt	IC50s	0.92nM
+HY-15778	angiotensin-(1 - 7 ) receptor	IC50	21nM
+HY-15778A	Ang-(1 - 7 ) receptor	IC50	21±35nM
+HY-15789	hepatitis C virus nonstructural protein 5A	C	5Ainhibitor
+HY-15789	HCV NS5A	EC50s	4nM
+HY-15789	1a	EC50s	3nM
+HY-15793	8782(alpha monoamine transporter	Ki	0.97nM
+HY-15793	Ki	IC50	0.97±nM
+HY-15793	Ki	IC50	0.48nM
+HY-15793	monoamine transporter	IC50	1-isomer
+HY-15793	Ki	Ki	0.97nM
+HY-15796	77 a highly	IC50	3nM
+HY-15796	selective	IC50	3nM
+HY-15796	leucine - Ki	IC50	1kinase-selectivity
+HY-15799	P2Y12 receptor	EC50	3.0ug
+HY-15799	P2Y12 receptor	IC50	11nM
+HY-15801	ALK	IC50	20nM
+HY-15801	ALK	IC50	20nM
+HY-15851	M3 receptor	Ki	0.18nM
+HY-15853	Ki	Ki	2.5±0.5nM
+HY-15891	human neutrophil elastase(HNE	IC50	22nM
+HY-15891	neutrophil elastase	IC50	22nM
+HY-15891	HNE	IC50	1neutrophil
+HY-15891	human serine proteases	IC50	100uM
+HY-15894	ETB receptor	IC50	1.2nM
+HY-15947	ERK kinase	IC50	6.1nM
+HY-15947	ERK1	IC50	3.1nM
+HY-15947A	ERK kinase	IC50	6.1nM
+HY-15947A	ERK1	IC50	3.1nM
+HY-15954	MDM2	IC50	1.7±0.1nM
+HY-15954B	MDM2	IC50	1.7±0.1nM
+HY-15955	nM nM for wt EZH2	IC50	0.5nM
+HY-15955	respectively	IC50	2.5nM
+HY-15955	in	IC50	0.5nM
+HY-15955	H3K27me2 levels in	IC50	2.5nM
+HY-15956A	EZH1	IC50s	0.24nM
+HY-15959	c - Met	IC50	5nM
+HY-15984	Hsp90	IC50	21nM
+HY-15989A	XIAP protein	IC50	1.39nM
+HY-15991	Na+/H+ exchanger NHE3	IC50	5nM
+HY-15992	VEGFR2 kinase	IC50	62nM
+HY-16025	FGFR1	IC50s	6nM
+HY-16104	S6 kinase 2	IC50	1.1nM
+HY-16111	farnesyl transferase	IC50	1.35nM
+HY-16209	nucleoside phosphorylase	IC50s	0.48nM
+HY-16209	PNP	IC50s	1.57nM
+HY-16276	human 11β - hydroxylase	IC50	2.5nM
+HY-16420	Syk kinase	Ki	96nM
+HY-16420	Ki of 96	IC50	226nM
+HY-16420	Syk kinase	IC50	226nM
+HY-16420	Syk	IC50	1blocks
+HY-16462	special cyclin - dependent kinase 9	IC50	5nM
+HY-16462	CDK9	IC50	7nM
+HY-16474	gonadotropin - releasing hormone	IC50	0.33nM
+HY-16474	GnRH	IC50	40fetal
+HY-16474	GnRH	IC50	0.33nM
+HY-16504	DP1	EC50	0.6±0.1nM
+HY-16590	ALK	IC50s	0.61nM
+HY-16681	nM for RARα	Kd	3,2,5nM
+HY-16681	nM (	IC50	3,2,5nM
+HY-16684	RAR Trans	IC50	3nM
+HY-16699	rastat HDAC	IC50	5nM
+HY-16699	HDAC6	IC50	5nM
+HY-16699	Nexturastat	IC50	1inhibitor
+HY-16727	bioavailable RSV	EC50	0.43nM
+HY-16751	rat IP receptor human DP1 receptor	EC50s	8.5nM
+HY-16763	DP1 receptor	Ki	0.44nM
+HY-16901	acetyl - CoA carboxylase	IC50	2.1nM
+HY-16901	ACC	IC50	6.1nM
+HY-16903	PKC	Kis	5.3nM
+HY-16903	human PKCβ	Kis	10.4nM
+HY-16903	PKC mu	IC50s	2.3nM
+HY-16935	rep CYP isoforms 3A4	IC50	25uM
+HY-16935	Ki	IC50	6.5nM
+HY-16935	TRPV1	IC50	4.6nM
+HY-16935	recombinant human TRPV1 channels	IC50	23nM
+HY-16935	Mavatrep	IC50	6.8nM
+HY-16966	autophagy kinase ULK1 ULK1 kinase	IC50	108nM
+HY-16966	kinase ULK2	IC50	108nM,711nM
+HY-16976	Pim kinase	IC50	43.6nM
+HY-16976	Ki	IC50	43.6nM
+HY-16999	IC50	IC50	5nM
+HY-16999	p53-MDM2	IC50	5nM
+HY-17377	CCR5	Ki	2.5nM
+HY-17446	bradykinin B2 receptor	Ki	1.07nM
+HY-17446	Ki	Ki	0.798nM
+HY-17458	whereas	IC50	0.62nM
+HY-17605	HIV-1 integrase	IC50	7.5nM
+HY-17634	HCV NS3/4A protease	IC50	3.5nM
+HY-17646	myeloperoxidase	IC50	630nM
+HY-18007	Eph family tyrosine kinase	IC50	11nM
+HY-18010	Btk	IC50	8.2nM
+HY-18010	Btk kinase PCI 29732(compound 1	IC50	8.2nM
+HY-18010	Btk	IC50	1compound
+HY-18018	monocytes	IC50	4.0nM
+HY-18018	7.0	IC	50nM
+HY-18018	- induced expression of	IC	2.9nM
+HY-18018	CD69 , in	IC	50nM
+HY-18162	glutamate 2	EC50	17nM
+HY-18227	B	IC50	24nM
+HY-18271	I - IN-1 MLCK	IC50	63nM
+HY-18271	PKC	IC50	63nM
+HY-18332C	dopamine reuptake	IC50	14nM
+HY-18351	topoisomerase 1(Top1	IC50	300nM
+HY-18353	mTOR	Ki	1.5nM
+HY-18601	I - D allosteric IN integrase	IC50	2.4–2.9uM
+HY-18601	LEDGF	IC50	160–200nM
+HY-18603	FGFR	IC50	13.1nM
+HY-18603	FGFR1	IC50	21nM
+HY-18603	FGFR3	IC50	31.4nM
+HY-18613	HDAC6	IC50	2pM
+HY-18613	HDAC1	IC50s	271nM
+HY-18620	a potent and reversible	Ki	17.9nM
+HY-18620	than	IC50	17.9nM
+HY-18620	little cytotoxicity up to	Ki	1inhibitor
+HY-18620	Similarly	IC50	100uM
+HY-18620	little effect was	IC50	600uM
+HY-18620	in	IC50	6uM
+HY-18620	μM =	IC50	14uM
+HY-18620	±	IC50	100uM
+HY-18621	TOPK kinase	IC50	2.6nM
+HY-18654	glutamate receptor 4	EC50	4nM
+HY-18667	lymphoid tyrosine phosphatase	IC50	508nM
+HY-18667	TCR	IC50	508nM
+HY-18667	Ki	Ki	384nM
+HY-18668	small molecule integrin	IC50	20uM
+HY-18676	integrin - linked kinase	IC50	600nM
+HY-18717	t IDH1-IN-2 mutant Isocitrate dehydrogenase	IC50	16.6nM
+HY-18719A	alpha ERα	IC50	1.6uM
+HY-18719A	manner with	IC50	1.6uM
+HY-18770B	Ki	EC50	7nM,75
+HY-18947	HDAC1	IC50	17nM
+HY-18957	Raf	IC50	23nM
+HY-18957	EGFR	IC50	29nM
+HY-18997	BRAF	IC50	5nM
+HY-19328	histone deacetylase 6	IC50	7.5nM
+HY-19337	human AR	IC50	38nM
+HY-19337	AR	IC50	38nM
+HY-19337	luciferase reporter gene construct	IC50	25nM
+HY-19337	androgen	IC50	51nM
+HY-19337	AR	IC50	700nM
+HY-19337	Ki	IC50	1160nM
+HY-19354	factor	IC50	17.8concentration-response
+HY-19354	of	IC50	2.6concentration-response
+HY-19366	WO 2011103196 A1	IC50	80nM
+HY-19366	WO/2011103196 A1	IC50	80nM
+HY-19369	Amyloid β - Protein precursor γ	IC50	17nM
+HY-19369	Notch	IC50	17nM
+HY-19487	growth Ribocil - B	EC50	0.3uM
+HY-19487	Ribocil -	IC50	0.13uM
+HY-19529	synthetic non - peptide endothelin receptor	IC50	220nM
+HY-19529	125I	IC50	220nM
+HY-19529	ET-1	IC50	200-500nM
+HY-19529	ETA receptor	IC50	125IET-1
+HY-19529	ET receptor	IC50	tworeceptor
+HY-19529	ET-1	IC50	1.8uM
+HY-19530	protein E	IC50	16.1nM
+HY-19544	IN-1 of	IC50	4.8nM
+HY-19544	1050	IC50	896nM
+HY-19544	a	IC50	1050nM
+HY-19544	of	IC50	4.8nM
+HY-19544	tools	IC50	1vitro
+HY-19569	Janus kinase	IC50	43nM
+HY-19612B	histone lysine - specific demethylase	IC50	84nM
+HY-19631	JAK2	IC50	0.72nM
+HY-19631	JAK2	IC50	33nM
+HY-19631	JAK1	IC50	39nM
+HY-19631	JAK3	IC50	22nM
+HY-19631A	JAK2	IC50	0.72nM
+HY-19631A	JAK2	IC50	33nM
+HY-19631A	JAK1	IC50	39nM
+HY-19631A	JAK3	IC50	22nM
+HY-19631B	JAK2	IC50	0.72nM
+HY-19631B	JAK2	IC50	33nM
+HY-19631B	JAK1	IC50	39nM
+HY-19631B	JAK3	IC50	22nM
+HY-19635A	p21-activated kinase 1	Ki	3.7nM
+HY-19719	Akt	IC50s	2.7nM
+HY-19768	CXCR2	IC50	12.5nM
+HY-19778	CFTR	IC50	4nM
+HY-19778A	CFTR	IC50	8nM
+HY-19803	irreversible EGFR	IC50s	8-33nM
+HY-19810	menin	IC50	21nM
+HY-19822A	estrogen receptor	IC50	48nM
+HY-19822A	ERR	IC50	870nM
+HY-19870	melanocortin 4 receptor	EC50	0.27nM
+HY-19937	peroxisome proliferator - activated receptor	EC50	0.65pM
+HY-19937	PPAR	EC50	3nM
+HY-19937A	peroxisome proliferator - activated receptor	EC50	0.65pM
+HY-19937A	PPAR	EC50	3nM
+HY-19974	and orally binding	IC50s	3.5nM
+HY-19974	MIP-1α	IC50s	1.4nM
+HY-19974	CCR2b	EC50s	1.2nM
+HY-19981	tyrosine kinase	IC50s	4.5nM
+HY-19981	FGFR1 - 3	IC50s	1.8nM
+HY-40354C	JAK3	IC50	1nM
+HY-50663	glucagon receptor	IC50	6.6nM
+HY-50703	is a novel	IC50	2.5nM
+HY-50703	Met in vitro :	IC50	2.5nM
+HY-50703	nM ) are	IC50	1c-Met
+HY-50703	2.5	IC50	2.5nM
+HY-50703	whereas	IC50	50uM
+HY-50703	to be 8-	IC50	7nM
+HY-50703	Met . [	IC50	10nM
+HY-50735	toxic to	IC50	2.5nM
+HY-50846	ERK1	IC50s	4nM
+HY-50846	ERK2	IC50s	1nM
+HY-50856A	litinib S JAK1/2	IC50	3.3nM,2.8
+HY-77251	MAP4K2 TGFβ - activated kinase 1	IC50s	41.1nM
+HY-77251	TAK1	IC50s	18.2nM
+HY-79136	) is a stable	IC50	8.2,9.0,9.1pKi
+HY-80002	tyrosine kinase	IC50	8nM
+HY-80002	’s tyrosine kinase BTK	IC50	10.4nM
+HY-D0713	transport prothrombin	IC50	11nM
+HY-P0097A	peptide hormone	IC50	11nM
+HY-P0165	glucagon - like peptide 1	EC50	0.06nM
+HY-U00431	G protein	IC50	17nM
+HY-U00461	hexokinase KHK - C	IC50s	8.4nM
+HY-U00461	KHK - A	IC50s	66nM
+HY-X0150	CDK9	IC50	1nM
